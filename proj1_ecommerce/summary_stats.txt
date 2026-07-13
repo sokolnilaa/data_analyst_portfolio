@@ -1,0 +1,9 @@
+
+KEY METRICS
+-----------
+Total Revenue (cleaned):      £597,520
+Total Orders:                 3,602
+Average Order Value:          £165.89
+Top Revenue Category:         Electronics
+% Customers who are Champions:25.0%
+'At Risk' segment size:       132 customers, £19,456 in historical value

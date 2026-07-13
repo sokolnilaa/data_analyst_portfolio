@@ -1,0 +1,4 @@
+plan,avg_mrr,monthly_churn_rate,avg_lifetime_months,estimated_ltv
+Enterprise,496.25,0.0134,74.8,37141.69
+Pro,98.72,0.0345,29.0,2864.17
+Basic,29.05,0.0323,31.0,899.4

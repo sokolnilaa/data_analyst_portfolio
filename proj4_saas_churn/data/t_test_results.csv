@@ -1,0 +1,4 @@
+variable,mean_churned,mean_active,t_stat,p_value,significant_0.05
+avg_logins_per_month,8.2,9.04,-3.87,0.00011,True
+support_tickets_opened,1.27,1.13,3.32,0.00091,True
+nps_score,33.71,36.71,-2.79,0.00539,True

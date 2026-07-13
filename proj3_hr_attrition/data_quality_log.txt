@@ -1,0 +1,6 @@
+DATA QUALITY LOG
+========================================
+- Removed 8 duplicate employee records (same profile, likely system merge duplicates).
+- Imputed 30 missing job_satisfaction values with the median.
+- Imputed 22 missing distance_from_home_km values with the median.
+- Row count: 1508 raw -> 1500 clean.

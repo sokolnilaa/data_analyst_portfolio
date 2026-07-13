@@ -1,0 +1,7 @@
+DATA QUALITY LOG
+========================================
+- Removed 52 exact duplicate order rows.
+- Identified 10 rows with negative quantity (data-entry errors / returns) and excluded from revenue.
+- Flagged 15 unit_price outliers (>3xIQR above Q3 per category) as missing, pending re-verification with finance.
+- Filled missing discount_pct with 0 and missing unit_price with category median.
+- Row count: 3666 raw -> 3604 clean (after removing duplicates/returns).

@@ -1,0 +1,23 @@
+
+KEY METRICS
+-----------
+Current MRR (latest month): £216,251
+Average monthly logo churn rate: 2.94%
+Overall cumulative churn rate (of all customers ever signed up): 39.7%
+
+Chi-square (categorical drivers):
+           variable  chi2  p_value  significant_0.05
+               plan 51.98      0.0              True
+acquisition_channel 32.00      0.0              True
+
+T-tests (engagement drivers, churned vs active):
+              variable  mean_churned  mean_active  t_stat  p_value  significant_0.05
+  avg_logins_per_month          8.20         9.04   -3.87  0.00011              True
+support_tickets_opened          1.27         1.13    3.32  0.00091              True
+             nps_score         33.71        36.71   -2.79  0.00539              True
+
+LTV by plan:
+      plan  avg_mrr  monthly_churn_rate  avg_lifetime_months  estimated_ltv
+Enterprise   496.25              0.0134                 74.8       37141.69
+       Pro    98.72              0.0345                 29.0        2864.17
+     Basic    29.05              0.0323                 31.0         899.40

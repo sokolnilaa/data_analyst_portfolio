@@ -1,0 +1,4 @@
+DATA QUALITY LOG
+========================================
+- Removed 5 duplicate rows (system double-export).
+- Imputed 9 missing spend values with channel median.

@@ -1,0 +1,3 @@
+group,users,conversions,conversion_rate
+control,5200,489,0.09403846153846154
+treatment,5150,548,0.10640776699029127

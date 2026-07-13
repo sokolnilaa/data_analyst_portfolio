@@ -1,0 +1,11 @@
+feature,coefficient,direction
+years_since_last_promotion,0.30723082399557905,increases attrition risk
+work_life_balance,-0.3010365563502157,decreases attrition risk
+job_satisfaction,-0.27152424589056817,decreases attrition risk
+job_level,-0.21991172039054138,decreases attrition risk
+overtime_flag,0.15051315097729684,increases attrition risk
+years_at_company,-0.10388721393671665,decreases attrition risk
+training_times_last_year,-0.04676186638146673,decreases attrition risk
+monthly_income,-0.046690070042809714,decreases attrition risk
+environment_satisfaction,-0.044397769738438383,decreases attrition risk
+distance_from_home_km,0.015511741828423374,increases attrition risk

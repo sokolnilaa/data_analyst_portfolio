@@ -1,0 +1,2501 @@
+customer_id,signup_date,country,age,acquisition_channel
+C100000,2023-03-04,United Kingdom,66.0,Organic Search
+C100001,2024-06-25,United Kingdom,22.0,Referral
+C100002,2024-04-03,United Kingdom,60.0,Direct
+C100003,2023-11-04,USA,47.0,Organic Search
+C100004,2023-10-31,United Kingdom,61.0,Organic Search
+C100005,2024-08-24,France,43.0,Paid Social
+C100006,2023-03-02,Germany,27.0,Direct
+C100007,2024-05-03,France,60.0,Referral
+C100008,2023-05-22,United States,53.0,Direct
+C100009,2023-03-07,Ireland,44.0,Paid Social
+C100010,2024-01-04,United Kingdom,39.0,Organic Search
+C100011,2024-11-13,United States,37.0,Email
+C100012,2024-05-30,united kingdom,45.0,Organic Search
+C100013,2024-06-16,Spain,32.0,Direct
+C100014,2024-05-17,United States,34.0,Organic Search
+C100015,2024-07-04,France,33.0,Paid Social
+C100016,2023-12-26,United Kingdom,18.0,Email
+C100017,2023-03-31,Ireland,,Email
+C100018,2024-08-10,United States,31.0,Referral
+C100019,2023-11-12,United States,27.0,Paid Social
+C100020,2023-12-17,Ireland,26.0,Paid Search
+C100021,2023-09-17,United States,74.0,Direct
+C100022,2023-05-08,United States,45.0,Paid Search
+C100023,2024-10-10,USA,36.0,Referral
+C100024,2024-07-01,United Kingdom,41.0,Referral
+C100025,2024-03-26,united kingdom,23.0,Referral
+C100026,2023-10-09,United Kingdom,35.0,Paid Social
+C100027,2024-07-29,United Kingdom,32.0,Paid Social
+C100028,2024-01-17,France,63.0,Email
+C100029,2023-11-07,USA,21.0,Organic Search
+C100030,2023-11-12,UK,42.0,Organic Search
+C100031,2023-06-09,United States,63.0,Paid Search
+C100032,2023-03-06,United States,65.0,Organic Search
+C100033,2024-01-24,Germany,47.0,Email
+C100034,2024-09-13,Spain,30.0,Referral
+C100035,2023-02-14,Spain,37.0,Organic Search
+C100036,2024-08-23,United States,30.0,Paid Search
+C100037,2024-08-02,united kingdom,55.0,Organic Search
+C100038,2023-07-13,United States,34.0,Paid Search
+C100039,2024-03-18,United States,53.0,Direct
+C100040,2023-04-26,United States,55.0,Organic Search
+C100041,2024-06-14,Germany,71.0,Organic Search
+C100042,2024-05-05,United States,39.0,Paid Social
+C100043,2023-09-06,united kingdom,72.0,Paid Social
+C100044,2023-02-17,UK,40.0,Organic Search
+C100045,2024-11-10,UK,56.0,Paid Search
+C100046,2023-11-08,United Kingdom,55.0,Organic Search
+C100047,2024-09-17,United Kingdom,,Direct
+C100048,2024-04-19,Germany,44.0,Organic Search
+C100049,2024-06-28,United States,63.0,Paid Search
+C100050,2024-06-15,United Kingdom,38.0,Organic Search
+C100051,2023-05-17,United States,46.0,Paid Social
+C100052,2023-09-12,Germany,46.0,Email
+C100053,2023-11-23,United Kingdom,58.0,Organic Search
+C100054,2023-12-15,France,53.0,Direct
+C100055,2023-01-31,Spain,22.0,Paid Social
+C100056,2024-01-18,USA,64.0,Email
+C100057,2023-04-19,Germany,61.0,Email
+C100058,2024-06-04,United Kingdom,23.0,Referral
+C100059,2024-04-23,Spain,,Organic Search
+C100060,2024-10-07,United States,55.0,Organic Search
+C100061,2024-06-05,Spain,22.0,Organic Search
+C100062,2023-09-14,United States,46.0,Paid Social
+C100063,2024-11-08,United Kingdom,65.0,Organic Search
+C100064,2023-10-15,United Kingdom,33.0,Paid Search
+C100065,2023-08-17,Germany,71.0,Email
+C100066,2024-09-25,United States,41.0,Referral
+C100067,2023-09-17,United Kingdom,30.0,Paid Social
+C100068,2023-02-23,Germany,38.0,Paid Social
+C100069,2023-11-25,France,47.0,Email
+C100070,2024-07-10,United States,57.0,Paid Social
+C100071,2023-05-13,United States,70.0,Paid Social
+C100072,2023-11-21,United Kingdom,29.0,Email
+C100073,2023-04-01,France,72.0,Email
+C100074,2024-04-25,UK,,Paid Search
+C100075,2023-11-29,France,25.0,Organic Search
+C100076,2023-08-20,UK,70.0,Email
+C100077,2023-06-08,United States,37.0,Organic Search
+C100078,2024-01-31,United Kingdom,53.0,Paid Social
+C100079,2024-04-13,United Kingdom,57.0,Direct
+C100080,2024-10-20,Germany,18.0,Organic Search
+C100081,2023-11-03,United States,30.0,Email
+C100082,2023-04-23,United States,57.0,Paid Social
+C100083,2024-08-05,Ireland,36.0,Organic Search
+C100084,2024-03-16,Ireland,18.0,Paid Search
+C100085,2024-05-05,France,19.0,Paid Social
+C100086,2023-03-10,United Kingdom,,Direct
+C100087,2023-08-07,USA,26.0,Paid Social
+C100088,2024-06-21,France,23.0,Paid Search
+C100089,2024-08-05,UK,50.0,Paid Social
+C100090,2023-11-01,United Kingdom,24.0,Paid Social
+C100091,2024-07-17,France,55.0,Direct
+C100092,2024-08-12,United States,49.0,Paid Social
+C100093,2023-09-29,United States,54.0,Paid Social
+C100094,2024-09-20,Ireland,46.0,Paid Search
+C100095,2023-07-21,USA,62.0,Email
+C100096,2023-06-17,United States,54.0,Referral
+C100097,2024-04-22,UK,41.0,Referral
+C100098,2024-03-21,United States,18.0,Direct
+C100099,2023-04-08,United Kingdom,33.0,Paid Search
+C100100,2024-08-05,France,25.0,Email
+C100101,2023-05-20,France,18.0,Paid Social
+C100102,2024-07-17,united kingdom,33.0,Organic Search
+C100103,2023-01-06,united kingdom,29.0,Referral
+C100104,2024-07-11,France,22.0,Direct
+C100105,2024-07-04,United Kingdom,35.0,Email
+C100106,2024-06-30,United States,46.0,Organic Search
+C100107,2024-04-10,United States,28.0,Paid Social
+C100108,2023-11-27,Germany,33.0,Email
+C100109,2024-05-08,United Kingdom,19.0,Direct
+C100110,2023-07-13,Germany,20.0,Organic Search
+C100111,2024-06-30,UK,,Referral
+C100112,2024-01-24,USA,43.0,Direct
+C100113,2023-11-18,United Kingdom,55.0,Paid Search
+C100114,2023-12-20,United States,62.0,Organic Search
+C100115,2024-02-03,United States,,Paid Search
+C100116,2023-01-27,United Kingdom,53.0,Referral
+C100117,2023-04-08,United Kingdom,71.0,Direct
+C100118,2023-06-21,United Kingdom,32.0,Organic Search
+C100119,2023-03-22,UK,63.0,Email
+C100120,2023-11-04,United Kingdom,71.0,Referral
+C100121,2024-04-12,Spain,50.0,Paid Social
+C100122,2024-04-03,United States,65.0,Paid Social
+C100123,2023-11-26,France,25.0,Email
+C100124,2024-08-21,Ireland,68.0,Email
+C100125,2024-01-31,United Kingdom,50.0,Organic Search
+C100126,2023-02-25,Germany,30.0,Paid Social
+C100127,2024-06-19,France,21.0,Organic Search
+C100128,2024-02-07,Germany,59.0,Paid Search
+C100129,2024-03-20,United States,42.0,Paid Search
+C100130,2024-01-31,United States,35.0,Paid Social
+C100131,2024-01-23,United Kingdom,40.0,Organic Search
+C100132,2023-03-05,United States,74.0,Organic Search
+C100133,2024-01-27,Ireland,42.0,Email
+C100134,2024-07-10,Spain,22.0,Paid Search
+C100135,2023-08-01,United Kingdom,,Email
+C100136,2024-02-26,Germany,26.0,Organic Search
+C100137,2023-01-22,united kingdom,57.0,Organic Search
+C100138,2023-09-01,Spain,63.0,Organic Search
+C100139,2023-11-02,United Kingdom,65.0,Direct
+C100140,2024-11-18,Spain,54.0,Referral
+C100141,2023-05-31,France,61.0,Email
+C100142,2023-07-13,United Kingdom,,Paid Social
+C100143,2023-10-13,United Kingdom,,Paid Search
+C100144,2024-11-25,France,24.0,Paid Social
+C100145,2024-08-20,United Kingdom,48.0,Direct
+C100146,2023-01-25,United States,49.0,Paid Search
+C100147,2023-06-13,Spain,19.0,Email
+C100148,2024-07-29,United States,49.0,Paid Search
+C100149,2023-02-10,United States,59.0,Paid Social
+C100150,2024-08-21,United States,38.0,Referral
+C100151,2023-07-16,United Kingdom,49.0,Organic Search
+C100152,2024-10-04,Ireland,34.0,Email
+C100153,2023-07-25,united kingdom,33.0,Organic Search
+C100154,2023-11-01,United Kingdom,25.0,Organic Search
+C100155,2024-04-08,united kingdom,36.0,Organic Search
+C100156,2023-03-30,Ireland,63.0,Paid Social
+C100157,2024-01-25,United Kingdom,71.0,Email
+C100158,2023-12-20,France,54.0,Email
+C100159,2024-07-02,Germany,53.0,Paid Social
+C100160,2024-11-28,France,52.0,Paid Search
+C100161,2024-04-10,Ireland,45.0,Paid Search
+C100162,2023-10-14,France,42.0,Organic Search
+C100163,2023-10-12,Spain,53.0,Paid Social
+C100164,2023-10-20,United Kingdom,62.0,Referral
+C100165,2024-07-23,France,41.0,Direct
+C100166,2023-08-13,United States,50.0,Paid Social
+C100167,2023-04-27,United States,44.0,Direct
+C100168,2023-08-23,France,34.0,Organic Search
+C100169,2023-01-16,Ireland,34.0,Paid Social
+C100170,2023-03-16,Germany,22.0,Direct
+C100171,2023-03-05,United States,43.0,Referral
+C100172,2024-06-24,United States,58.0,Direct
+C100173,2024-05-20,United States,57.0,Organic Search
+C100174,2024-05-02,UK,74.0,Organic Search
+C100175,2023-11-20,United States,20.0,Organic Search
+C100176,2024-05-16,United Kingdom,61.0,Organic Search
+C100177,2023-04-23,United Kingdom,63.0,Organic Search
+C100178,2024-09-22,Germany,,Email
+C100179,2023-12-17,United States,34.0,Email
+C100180,2024-10-18,Spain,38.0,Referral
+C100181,2023-04-17,USA,56.0,Paid Social
+C100182,2023-12-15,United Kingdom,67.0,Organic Search
+C100183,2024-05-02,United Kingdom,54.0,Referral
+C100184,2023-12-13,United Kingdom,47.0,Organic Search
+C100185,2023-11-09,Ireland,55.0,Paid Search
+C100186,2023-04-27,United Kingdom,22.0,Organic Search
+C100187,2023-09-24,United States,52.0,Email
+C100188,2023-06-17,Spain,20.0,Paid Search
+C100189,2023-07-31,Ireland,72.0,Email
+C100190,2024-04-23,United Kingdom,68.0,Referral
+C100191,2024-03-17,United Kingdom,46.0,Referral
+C100192,2024-03-01,United Kingdom,39.0,Organic Search
+C100193,2023-09-11,United Kingdom,59.0,Referral
+C100194,2024-11-02,United Kingdom,54.0,Paid Search
+C100195,2023-03-03,United States,58.0,Paid Search
+C100196,2023-08-28,Spain,47.0,Paid Social
+C100197,2023-03-24,United States,31.0,Paid Social
+C100198,2023-08-26,USA,22.0,Direct
+C100199,2024-11-04,United Kingdom,34.0,Email
+C100200,2023-09-14,France,48.0,Paid Social
+C100201,2024-09-28,USA,42.0,Organic Search
+C100202,2023-12-13,France,46.0,Organic Search
+C100203,2024-05-04,Spain,33.0,Email
+C100204,2023-11-17,UK,71.0,Organic Search
+C100205,2023-07-06,United Kingdom,38.0,Organic Search
+C100206,2024-06-18,United Kingdom,66.0,Organic Search
+C100207,2024-11-09,United States,40.0,Paid Search
+C100208,2023-07-04,Spain,43.0,Organic Search
+C100209,2024-06-29,UK,52.0,Organic Search
+C100210,2023-07-02,Germany,32.0,Email
+C100211,2024-05-16,United States,30.0,Organic Search
+C100212,2024-07-06,United Kingdom,,Paid Search
+C100213,2023-11-11,united kingdom,63.0,Paid Search
+C100214,2024-05-30,Germany,26.0,Paid Social
+C100215,2023-07-10,Germany,42.0,Paid Social
+C100216,2023-02-25,United States,56.0,Paid Social
+C100217,2023-03-09,United Kingdom,58.0,Organic Search
+C100218,2023-11-09,Germany,42.0,Paid Social
+C100219,2024-09-23,United Kingdom,22.0,Organic Search
+C100220,2023-03-31,Spain,18.0,Organic Search
+C100221,2023-11-16,United Kingdom,44.0,Email
+C100222,2024-05-07,United Kingdom,64.0,Organic Search
+C100223,2023-05-22,United States,19.0,Organic Search
+C100224,2024-05-20,United States,68.0,Email
+C100225,2023-08-03,United States,56.0,Paid Social
+C100226,2024-07-20,United States,18.0,Organic Search
+C100227,2024-02-10,Ireland,37.0,Organic Search
+C100228,2024-01-18,United States,30.0,Organic Search
+C100229,2023-05-04,United States,72.0,Organic Search
+C100230,2023-11-21,United States,49.0,Direct
+C100231,2024-08-22,United Kingdom,36.0,Paid Search
+C100232,2023-01-14,USA,33.0,Paid Social
+C100233,2024-06-14,United Kingdom,50.0,Paid Social
+C100234,2023-12-11,Germany,18.0,Direct
+C100235,2024-05-18,United Kingdom,32.0,Referral
+C100236,2024-04-09,Ireland,27.0,Organic Search
+C100237,2023-10-30,United States,53.0,Organic Search
+C100238,2023-08-05,France,56.0,Paid Social
+C100239,2024-03-15,United States,44.0,Email
+C100240,2023-04-09,United Kingdom,25.0,Organic Search
+C100241,2024-02-13,France,39.0,Paid Social
+C100242,2023-03-08,Germany,66.0,Paid Social
+C100243,2024-03-30,France,29.0,Paid Social
+C100244,2024-03-16,United States,27.0,Email
+C100245,2023-03-01,Germany,24.0,Referral
+C100246,2024-06-14,France,64.0,Email
+C100247,2023-10-19,Germany,24.0,Organic Search
+C100248,2024-07-04,UK,51.0,Organic Search
+C100249,2023-01-30,Germany,74.0,Direct
+C100250,2023-05-06,Germany,54.0,Email
+C100251,2023-12-12,Ireland,41.0,Organic Search
+C100252,2023-05-12,UK,29.0,Paid Social
+C100253,2023-08-19,United States,18.0,Direct
+C100254,2024-04-07,France,26.0,Direct
+C100255,2023-04-12,United States,72.0,Paid Search
+C100256,2024-04-19,Germany,26.0,Referral
+C100257,2023-03-14,United States,19.0,Paid Social
+C100258,2023-05-03,United Kingdom,64.0,Paid Social
+C100259,2024-02-16,Germany,41.0,Organic Search
+C100260,2024-07-09,United Kingdom,38.0,Referral
+C100261,2023-04-30,United Kingdom,58.0,Email
+C100262,2023-07-29,USA,47.0,Organic Search
+C100263,2024-10-09,Germany,,Paid Search
+C100264,2024-11-23,France,44.0,Paid Social
+C100265,2024-02-11,United Kingdom,58.0,Organic Search
+C100266,2023-11-09,United Kingdom,68.0,Paid Social
+C100267,2023-08-31,Spain,44.0,Paid Search
+C100268,2024-03-04,United Kingdom,34.0,Paid Search
+C100269,2024-02-18,United Kingdom,73.0,Email
+C100270,2023-07-26,united kingdom,,Paid Search
+C100271,2023-01-16,United States,20.0,Paid Search
+C100272,2023-04-17,France,50.0,Direct
+C100273,2024-11-01,Germany,74.0,Paid Search
+C100274,2023-10-20,Germany,22.0,Paid Social
+C100275,2023-12-04,United Kingdom,66.0,Direct
+C100276,2023-11-23,UK,65.0,Email
+C100277,2024-07-01,United States,70.0,Direct
+C100278,2023-02-15,United Kingdom,,Organic Search
+C100279,2023-02-27,United Kingdom,32.0,Direct
+C100280,2023-07-13,united kingdom,47.0,Paid Search
+C100281,2023-12-07,United Kingdom,26.0,Paid Social
+C100282,2024-04-14,United States,66.0,Paid Search
+C100283,2023-12-10,Germany,55.0,Paid Social
+C100284,2023-11-05,United Kingdom,45.0,Organic Search
+C100285,2024-10-18,United States,47.0,Organic Search
+C100286,2023-04-23,France,58.0,Direct
+C100287,2024-02-05,Germany,47.0,Email
+C100288,2024-01-15,France,65.0,Paid Social
+C100289,2023-11-28,United States,70.0,Referral
+C100290,2024-07-19,France,72.0,Paid Social
+C100291,2023-07-06,United Kingdom,53.0,Paid Social
+C100292,2024-10-29,UK,60.0,Paid Search
+C100293,2023-08-21,United Kingdom,35.0,Referral
+C100294,2024-01-17,United States,20.0,Direct
+C100295,2023-12-31,United States,40.0,Email
+C100296,2024-08-17,United Kingdom,67.0,Paid Search
+C100297,2023-11-04,Germany,25.0,Organic Search
+C100298,2023-07-19,united kingdom,49.0,Paid Social
+C100299,2023-01-16,United Kingdom,28.0,Organic Search
+C100300,2023-09-12,United Kingdom,42.0,Email
+C100301,2024-08-01,United States,26.0,Referral
+C100302,2023-01-07,united kingdom,59.0,Direct
+C100303,2024-09-19,UK,,Paid Social
+C100304,2024-01-15,United Kingdom,61.0,Organic Search
+C100305,2023-04-09,Germany,58.0,Referral
+C100306,2023-07-31,Spain,31.0,Paid Search
+C100307,2024-01-23,United States,48.0,Paid Social
+C100308,2023-08-09,Germany,23.0,Organic Search
+C100309,2023-03-18,France,39.0,Paid Social
+C100310,2024-04-11,Ireland,,Paid Social
+C100311,2024-04-15,USA,56.0,Paid Social
+C100312,2023-03-25,France,23.0,Paid Social
+C100313,2023-07-16,Spain,64.0,Referral
+C100314,2023-06-20,France,44.0,Paid Social
+C100315,2024-04-06,United States,68.0,Paid Social
+C100316,2024-05-26,United Kingdom,48.0,Organic Search
+C100317,2024-05-23,United Kingdom,,Paid Search
+C100318,2024-10-19,United States,57.0,Paid Social
+C100319,2024-06-22,United States,64.0,Paid Social
+C100320,2023-08-13,United States,26.0,Organic Search
+C100321,2023-03-17,United States,47.0,Referral
+C100322,2024-03-06,United States,19.0,Paid Search
+C100323,2024-10-03,France,45.0,Organic Search
+C100324,2024-11-13,United Kingdom,64.0,Organic Search
+C100325,2023-06-11,United Kingdom,67.0,Organic Search
+C100326,2023-06-15,France,34.0,Referral
+C100327,2023-01-27,France,40.0,Paid Search
+C100328,2023-04-09,Ireland,49.0,Paid Social
+C100329,2024-01-24,France,40.0,Paid Social
+C100330,2024-01-18,France,28.0,Direct
+C100331,2023-09-17,united kingdom,35.0,Direct
+C100332,2023-08-05,United States,41.0,Organic Search
+C100333,2024-08-03,United Kingdom,47.0,Organic Search
+C100334,2023-11-19,USA,70.0,Paid Social
+C100335,2024-07-19,Spain,49.0,Direct
+C100336,2024-11-05,UK,40.0,Referral
+C100337,2023-08-10,United States,55.0,Referral
+C100338,2023-05-22,united kingdom,62.0,Direct
+C100339,2024-10-29,United Kingdom,42.0,Paid Social
+C100340,2024-03-20,United Kingdom,45.0,Paid Social
+C100341,2023-07-23,United Kingdom,30.0,Organic Search
+C100342,2024-03-11,Spain,67.0,Paid Search
+C100343,2023-12-27,United States,67.0,Email
+C100344,2024-09-25,France,27.0,Paid Social
+C100345,2023-06-29,Germany,37.0,Organic Search
+C100346,2024-11-24,United Kingdom,33.0,Direct
+C100347,2024-10-17,United Kingdom,70.0,Direct
+C100348,2023-05-07,France,21.0,Referral
+C100349,2023-04-26,United Kingdom,29.0,Organic Search
+C100350,2024-01-09,Spain,35.0,Paid Search
+C100351,2023-02-01,United Kingdom,49.0,Direct
+C100352,2023-07-29,Germany,32.0,Referral
+C100353,2023-11-01,France,48.0,Referral
+C100354,2024-11-09,United Kingdom,60.0,Paid Search
+C100355,2024-11-25,United Kingdom,65.0,Paid Search
+C100356,2023-04-17,Ireland,23.0,Email
+C100357,2024-09-16,United Kingdom,25.0,Paid Social
+C100358,2023-03-05,United States,23.0,Paid Social
+C100359,2024-06-08,United States,69.0,Direct
+C100360,2024-08-14,United Kingdom,55.0,Referral
+C100361,2024-09-15,Germany,48.0,Organic Search
+C100362,2023-06-06,Germany,63.0,Organic Search
+C100363,2024-09-17,UK,51.0,Paid Search
+C100364,2023-03-23,France,31.0,Paid Search
+C100365,2023-12-30,United Kingdom,47.0,Paid Search
+C100366,2023-11-25,United Kingdom,58.0,Paid Social
+C100367,2023-08-10,United States,20.0,Direct
+C100368,2023-01-16,Ireland,52.0,Direct
+C100369,2024-06-24,United Kingdom,46.0,Paid Social
+C100370,2023-08-23,United Kingdom,21.0,Organic Search
+C100371,2024-04-08,United States,33.0,Paid Search
+C100372,2023-10-15,France,43.0,Organic Search
+C100373,2023-09-19,United Kingdom,37.0,Email
+C100374,2024-09-12,United States,34.0,Referral
+C100375,2023-03-08,Germany,54.0,Referral
+C100376,2024-05-30,UK,41.0,Paid Social
+C100377,2024-06-06,United Kingdom,46.0,Direct
+C100378,2023-09-23,United Kingdom,63.0,Organic Search
+C100379,2023-07-03,United States,23.0,Direct
+C100380,2023-01-04,United States,38.0,Organic Search
+C100381,2024-10-17,France,22.0,Referral
+C100382,2024-10-25,Germany,70.0,Direct
+C100383,2023-06-18,Germany,28.0,Organic Search
+C100384,2023-01-23,Ireland,64.0,Organic Search
+C100385,2023-03-27,United States,28.0,Direct
+C100386,2023-02-17,United States,36.0,Organic Search
+C100387,2024-08-04,Spain,52.0,Organic Search
+C100388,2024-09-16,United Kingdom,65.0,Email
+C100389,2023-04-18,Germany,28.0,Paid Search
+C100390,2024-06-06,Germany,30.0,Email
+C100391,2023-05-06,United Kingdom,68.0,Paid Social
+C100392,2023-09-15,United States,36.0,Paid Search
+C100393,2024-02-24,United Kingdom,29.0,Email
+C100394,2024-05-18,United Kingdom,60.0,Paid Social
+C100395,2024-09-04,United States,23.0,Paid Social
+C100396,2023-02-01,united kingdom,67.0,Paid Social
+C100397,2023-05-18,France,67.0,Paid Social
+C100398,2023-07-16,Spain,66.0,Referral
+C100399,2023-08-06,France,34.0,Organic Search
+C100400,2024-11-29,United Kingdom,24.0,Referral
+C100401,2024-06-28,United Kingdom,42.0,Organic Search
+C100402,2023-08-13,United Kingdom,37.0,Paid Social
+C100403,2024-11-11,United Kingdom,72.0,Organic Search
+C100404,2023-12-16,Spain,54.0,Email
+C100405,2023-12-17,United States,,Direct
+C100406,2023-10-31,United Kingdom,60.0,Paid Social
+C100407,2023-04-11,France,58.0,Organic Search
+C100408,2024-10-16,United States,24.0,Organic Search
+C100409,2023-01-10,United Kingdom,21.0,Direct
+C100410,2023-05-02,United Kingdom,20.0,Paid Social
+C100411,2023-06-10,Germany,51.0,Direct
+C100412,2023-07-15,France,29.0,Paid Social
+C100413,2023-04-03,United Kingdom,74.0,Organic Search
+C100414,2023-01-13,Spain,25.0,Direct
+C100415,2024-04-19,France,71.0,Email
+C100416,2024-11-09,France,56.0,Organic Search
+C100417,2023-03-27,United Kingdom,24.0,Paid Search
+C100418,2023-07-27,United Kingdom,21.0,Organic Search
+C100419,2023-12-21,France,40.0,Paid Social
+C100420,2024-10-11,united kingdom,,Paid Social
+C100421,2024-04-30,USA,35.0,Email
+C100422,2024-06-20,Germany,48.0,Direct
+C100423,2024-02-11,United Kingdom,25.0,Organic Search
+C100424,2023-10-19,France,25.0,Paid Search
+C100425,2023-05-20,Spain,57.0,Referral
+C100426,2024-08-28,Germany,74.0,Paid Search
+C100427,2024-07-16,United States,33.0,Direct
+C100428,2023-01-18,France,71.0,Paid Search
+C100429,2024-05-15,United States,37.0,Referral
+C100430,2023-03-01,Germany,37.0,Paid Social
+C100431,2024-06-01,France,23.0,Paid Social
+C100432,2024-08-01,Germany,42.0,Referral
+C100433,2023-04-02,united kingdom,46.0,Paid Social
+C100434,2023-10-31,United Kingdom,55.0,Direct
+C100435,2023-03-28,United Kingdom,27.0,Organic Search
+C100436,2024-02-02,United States,28.0,Direct
+C100437,2024-10-11,United States,42.0,Organic Search
+C100438,2023-02-26,USA,21.0,Paid Search
+C100439,2023-10-06,United States,26.0,Organic Search
+C100440,2024-11-12,France,53.0,Organic Search
+C100441,2023-07-30,Spain,72.0,Direct
+C100442,2023-04-03,United Kingdom,50.0,Direct
+C100443,2023-12-09,Germany,26.0,Direct
+C100444,2023-12-22,Germany,74.0,Paid Search
+C100445,2024-04-09,United States,47.0,Paid Social
+C100446,2023-08-08,United Kingdom,58.0,Direct
+C100447,2024-10-30,France,29.0,Paid Social
+C100448,2023-12-31,Ireland,50.0,Email
+C100449,2023-07-20,Germany,,Paid Social
+C100450,2024-11-03,Spain,53.0,Organic Search
+C100451,2024-10-09,Ireland,29.0,Email
+C100452,2023-12-16,UK,69.0,Direct
+C100453,2023-01-18,Germany,21.0,Organic Search
+C100454,2024-02-22,United States,55.0,Paid Search
+C100455,2024-01-24,Ireland,25.0,Email
+C100456,2023-04-14,United Kingdom,57.0,Organic Search
+C100457,2024-03-19,United States,46.0,Referral
+C100458,2024-08-11,France,73.0,Organic Search
+C100459,2023-03-16,united kingdom,55.0,Organic Search
+C100460,2024-05-21,France,,Referral
+C100461,2023-04-09,United States,22.0,Organic Search
+C100462,2024-06-08,Ireland,51.0,Organic Search
+C100463,2023-10-21,France,43.0,Direct
+C100464,2023-01-05,united kingdom,20.0,Organic Search
+C100465,2024-11-07,Germany,51.0,Direct
+C100466,2023-04-27,UK,29.0,Direct
+C100467,2024-02-22,USA,31.0,Organic Search
+C100468,2023-05-08,Germany,18.0,Email
+C100469,2024-10-15,France,39.0,Organic Search
+C100470,2024-05-31,United Kingdom,30.0,Referral
+C100471,2024-07-17,United Kingdom,22.0,Organic Search
+C100472,2023-10-30,Germany,42.0,Paid Search
+C100473,2023-11-24,United States,30.0,Organic Search
+C100474,2024-03-20,United States,25.0,Referral
+C100475,2024-07-03,United Kingdom,44.0,Organic Search
+C100476,2024-08-15,UK,21.0,Organic Search
+C100477,2023-01-13,France,74.0,Email
+C100478,2024-04-09,United Kingdom,44.0,Email
+C100479,2023-03-18,United States,74.0,Paid Search
+C100480,2023-07-21,Spain,68.0,Organic Search
+C100481,2024-08-03,United Kingdom,73.0,Organic Search
+C100482,2023-06-25,Germany,48.0,Paid Social
+C100483,2024-07-11,United Kingdom,42.0,Paid Social
+C100484,2023-11-21,France,59.0,Paid Search
+C100485,2023-06-12,Germany,22.0,Paid Search
+C100486,2023-08-22,France,65.0,Paid Search
+C100487,2024-01-07,United Kingdom,36.0,Organic Search
+C100488,2024-06-19,United States,18.0,Paid Social
+C100489,2024-02-29,Germany,31.0,Direct
+C100490,2024-10-15,United Kingdom,31.0,Paid Social
+C100491,2024-08-30,United Kingdom,18.0,Referral
+C100492,2024-06-11,United Kingdom,56.0,Organic Search
+C100493,2024-02-27,Spain,23.0,Paid Social
+C100494,2023-07-22,Germany,,Paid Search
+C100495,2023-10-16,Germany,43.0,Paid Social
+C100496,2023-03-25,Germany,58.0,Paid Search
+C100497,2023-09-19,United States,37.0,Paid Social
+C100498,2024-10-10,United States,25.0,Organic Search
+C100499,2023-10-26,United States,28.0,Paid Social
+C100500,2023-03-21,Germany,54.0,Organic Search
+C100501,2024-04-01,United Kingdom,58.0,Email
+C100502,2024-11-04,France,33.0,Organic Search
+C100503,2024-08-30,France,38.0,Referral
+C100504,2023-07-11,UK,71.0,Paid Search
+C100505,2023-11-14,United States,66.0,Paid Social
+C100506,2024-01-07,United Kingdom,41.0,Organic Search
+C100507,2023-06-23,Ireland,31.0,Paid Social
+C100508,2023-07-08,Spain,35.0,Direct
+C100509,2023-06-15,Spain,48.0,Email
+C100510,2024-11-27,UK,50.0,Organic Search
+C100511,2024-06-06,United Kingdom,28.0,Email
+C100512,2024-08-11,United Kingdom,21.0,Email
+C100513,2024-07-25,United Kingdom,46.0,Paid Social
+C100514,2024-11-02,United Kingdom,63.0,Organic Search
+C100515,2023-03-15,United Kingdom,26.0,Paid Search
+C100516,2024-09-09,Ireland,41.0,Organic Search
+C100517,2023-02-16,United Kingdom,27.0,Organic Search
+C100518,2023-11-29,United Kingdom,31.0,Organic Search
+C100519,2024-02-21,France,52.0,Email
+C100520,2023-09-08,USA,34.0,Paid Social
+C100521,2023-04-13,Germany,,Organic Search
+C100522,2023-05-15,Germany,74.0,Paid Social
+C100523,2024-07-31,France,27.0,Referral
+C100524,2023-08-12,Germany,28.0,Paid Social
+C100525,2023-08-06,United States,70.0,Paid Search
+C100526,2024-10-08,Germany,49.0,Paid Social
+C100527,2023-04-11,United States,20.0,Organic Search
+C100528,2024-10-02,UK,,Paid Search
+C100529,2024-10-06,United States,50.0,Direct
+C100530,2024-02-23,United Kingdom,32.0,Paid Social
+C100531,2023-04-26,France,49.0,Direct
+C100532,2023-04-20,United Kingdom,54.0,Email
+C100533,2023-07-19,United Kingdom,32.0,Paid Social
+C100534,2024-02-09,United Kingdom,64.0,Direct
+C100535,2023-04-18,France,43.0,Direct
+C100536,2023-11-15,UK,72.0,Paid Social
+C100537,2023-03-22,Germany,23.0,Referral
+C100538,2024-01-14,France,36.0,Paid Social
+C100539,2023-01-15,United Kingdom,59.0,Organic Search
+C100540,2024-05-11,Germany,69.0,Paid Search
+C100541,2023-02-08,united kingdom,30.0,Email
+C100542,2023-05-17,United Kingdom,73.0,Email
+C100543,2023-05-03,Germany,29.0,Email
+C100544,2024-08-04,Spain,41.0,Email
+C100545,2023-02-07,united kingdom,35.0,Paid Social
+C100546,2023-10-28,United States,42.0,Paid Search
+C100547,2024-02-18,united kingdom,69.0,Referral
+C100548,2023-12-28,United States,59.0,Referral
+C100549,2024-04-21,USA,63.0,Email
+C100550,2024-07-16,USA,,Paid Social
+C100551,2023-10-03,USA,71.0,Organic Search
+C100552,2024-08-02,United Kingdom,42.0,Paid Social
+C100553,2023-08-11,Germany,55.0,Organic Search
+C100554,2024-11-20,Germany,57.0,Referral
+C100555,2023-12-20,Germany,55.0,Paid Search
+C100556,2024-05-30,United Kingdom,52.0,Paid Social
+C100557,2024-09-04,United States,45.0,Paid Social
+C100558,2024-07-08,United States,54.0,Referral
+C100559,2024-08-18,United Kingdom,,Organic Search
+C100560,2024-01-11,United Kingdom,40.0,Paid Search
+C100561,2023-01-31,United States,47.0,Paid Social
+C100562,2023-12-12,Germany,28.0,Organic Search
+C100563,2023-05-08,United Kingdom,38.0,Organic Search
+C100564,2024-09-14,France,62.0,Paid Search
+C100565,2023-06-15,United States,54.0,Organic Search
+C100566,2023-06-09,Germany,30.0,Referral
+C100567,2023-06-24,United States,49.0,Organic Search
+C100568,2024-03-25,United States,64.0,Organic Search
+C100569,2024-02-04,USA,25.0,Paid Search
+C100570,2024-10-26,Spain,21.0,Organic Search
+C100571,2023-10-19,United States,40.0,Organic Search
+C100572,2023-07-17,United States,55.0,Email
+C100573,2023-02-04,USA,35.0,Paid Search
+C100574,2023-01-05,Germany,64.0,Paid Social
+C100575,2023-09-19,United Kingdom,66.0,Organic Search
+C100576,2024-10-10,United States,48.0,Paid Search
+C100577,2024-01-02,United States,39.0,Referral
+C100578,2024-09-17,Spain,20.0,Paid Search
+C100579,2023-03-13,United States,64.0,Direct
+C100580,2023-03-07,United States,69.0,Referral
+C100581,2024-08-06,Ireland,43.0,Paid Social
+C100582,2023-03-16,United States,47.0,Paid Social
+C100583,2023-02-06,United Kingdom,60.0,Direct
+C100584,2023-10-10,United Kingdom,57.0,Direct
+C100585,2024-10-09,United Kingdom,25.0,Paid Search
+C100586,2024-04-27,United Kingdom,56.0,Email
+C100587,2023-03-11,United States,70.0,Paid Social
+C100588,2024-08-08,Germany,60.0,Email
+C100589,2024-08-13,Germany,45.0,Referral
+C100590,2024-07-14,United Kingdom,47.0,Paid Social
+C100591,2024-09-23,United States,32.0,Direct
+C100592,2023-06-17,United Kingdom,55.0,Email
+C100593,2024-11-16,Spain,31.0,Organic Search
+C100594,2023-08-13,United Kingdom,37.0,Email
+C100595,2024-07-15,USA,33.0,Referral
+C100596,2024-02-10,united kingdom,37.0,Paid Search
+C100597,2024-06-29,Germany,38.0,Paid Social
+C100598,2024-03-15,United States,22.0,Email
+C100599,2024-03-25,Germany,58.0,Email
+C100600,2024-03-07,United Kingdom,43.0,Email
+C100601,2024-06-29,Spain,72.0,Organic Search
+C100602,2024-06-01,United States,28.0,Paid Search
+C100603,2023-04-05,Germany,56.0,Paid Search
+C100604,2024-08-01,France,28.0,Email
+C100605,2024-01-11,Ireland,49.0,Email
+C100606,2023-08-15,United Kingdom,45.0,Organic Search
+C100607,2023-12-26,united kingdom,43.0,Email
+C100608,2024-11-07,United Kingdom,55.0,Paid Social
+C100609,2024-08-23,United Kingdom,65.0,Direct
+C100610,2024-08-06,USA,36.0,Organic Search
+C100611,2023-11-20,Ireland,66.0,Direct
+C100612,2024-07-02,Ireland,28.0,Paid Social
+C100613,2023-09-27,United States,34.0,Referral
+C100614,2024-04-25,Germany,35.0,Referral
+C100615,2024-03-23,France,72.0,Organic Search
+C100616,2023-06-24,Spain,24.0,Paid Social
+C100617,2023-07-06,United Kingdom,40.0,Direct
+C100618,2023-02-12,United States,42.0,Referral
+C100619,2023-04-08,France,63.0,Organic Search
+C100620,2023-10-31,united kingdom,45.0,Paid Social
+C100621,2023-12-01,United States,73.0,Paid Social
+C100622,2023-04-26,Ireland,60.0,Referral
+C100623,2023-10-19,Ireland,58.0,Referral
+C100624,2024-02-27,Spain,,Organic Search
+C100625,2023-06-12,France,27.0,Referral
+C100626,2023-08-25,United Kingdom,43.0,Direct
+C100627,2023-09-15,united kingdom,51.0,Direct
+C100628,2023-12-20,United States,29.0,Organic Search
+C100629,2023-09-14,United States,24.0,Paid Social
+C100630,2024-05-30,United States,,Paid Social
+C100631,2023-08-18,Germany,62.0,Organic Search
+C100632,2023-10-31,United States,55.0,Paid Social
+C100633,2023-09-23,Germany,34.0,Organic Search
+C100634,2023-05-09,UK,60.0,Organic Search
+C100635,2024-04-25,UK,57.0,Referral
+C100636,2023-06-14,United Kingdom,64.0,Paid Social
+C100637,2023-07-27,United Kingdom,69.0,Direct
+C100638,2024-07-08,France,68.0,Organic Search
+C100639,2024-10-26,United States,28.0,Email
+C100640,2024-04-14,United Kingdom,61.0,Paid Social
+C100641,2024-10-03,Germany,40.0,Direct
+C100642,2024-08-20,United States,40.0,Direct
+C100643,2023-12-03,United Kingdom,54.0,Paid Social
+C100644,2024-06-23,united kingdom,,Referral
+C100645,2023-08-18,United Kingdom,41.0,Organic Search
+C100646,2023-11-19,Germany,74.0,Email
+C100647,2024-01-10,United Kingdom,27.0,Organic Search
+C100648,2024-11-03,United Kingdom,23.0,Paid Social
+C100649,2024-08-16,United Kingdom,19.0,Organic Search
+C100650,2023-12-09,USA,64.0,Paid Search
+C100651,2024-04-01,United Kingdom,41.0,Paid Social
+C100652,2023-05-22,France,42.0,Email
+C100653,2024-07-17,United Kingdom,55.0,Paid Social
+C100654,2024-01-23,USA,42.0,Paid Social
+C100655,2024-01-08,United States,50.0,Organic Search
+C100656,2024-06-20,United States,21.0,Paid Search
+C100657,2024-03-19,United Kingdom,26.0,Direct
+C100658,2023-02-20,France,71.0,Organic Search
+C100659,2023-07-21,France,,Direct
+C100660,2023-05-04,United Kingdom,27.0,Paid Social
+C100661,2024-05-29,United Kingdom,39.0,Organic Search
+C100662,2023-01-25,Spain,37.0,Email
+C100663,2023-05-22,United States,33.0,Organic Search
+C100664,2024-02-23,United Kingdom,34.0,Organic Search
+C100665,2024-05-01,United Kingdom,59.0,Referral
+C100666,2023-12-19,Germany,24.0,Paid Social
+C100667,2024-08-25,Germany,35.0,Paid Search
+C100668,2024-10-05,USA,44.0,Referral
+C100669,2023-04-03,Spain,48.0,Direct
+C100670,2024-10-28,United States,,Referral
+C100671,2024-03-06,united kingdom,70.0,Paid Search
+C100672,2024-03-21,United States,34.0,Paid Social
+C100673,2023-03-08,UK,48.0,Email
+C100674,2024-03-11,United Kingdom,19.0,Email
+C100675,2024-05-23,United Kingdom,53.0,Paid Search
+C100676,2024-02-11,UK,26.0,Organic Search
+C100677,2023-03-01,Germany,22.0,Email
+C100678,2024-01-02,United Kingdom,56.0,Direct
+C100679,2024-10-17,United States,28.0,Paid Social
+C100680,2024-05-21,Germany,45.0,Paid Search
+C100681,2023-04-07,USA,23.0,Paid Social
+C100682,2024-11-02,Germany,60.0,Organic Search
+C100683,2024-11-02,France,61.0,Email
+C100684,2023-04-29,Germany,50.0,Paid Social
+C100685,2024-07-14,United Kingdom,65.0,Organic Search
+C100686,2023-10-12,United States,42.0,Organic Search
+C100687,2024-02-20,USA,28.0,Organic Search
+C100688,2023-11-08,United Kingdom,26.0,Direct
+C100689,2024-07-01,United Kingdom,30.0,Paid Search
+C100690,2024-11-28,United Kingdom,29.0,Email
+C100691,2024-07-10,United States,36.0,Organic Search
+C100692,2024-10-13,United States,30.0,Email
+C100693,2024-10-24,United Kingdom,51.0,Paid Search
+C100694,2023-03-05,France,26.0,Direct
+C100695,2023-06-27,Spain,53.0,Paid Social
+C100696,2024-05-20,United Kingdom,37.0,Organic Search
+C100697,2024-02-18,Spain,57.0,Paid Search
+C100698,2023-02-05,United Kingdom,47.0,Paid Search
+C100699,2023-03-08,Spain,69.0,Organic Search
+C100700,2023-12-31,Spain,43.0,Direct
+C100701,2024-03-07,United Kingdom,34.0,Organic Search
+C100702,2023-04-28,Germany,,Organic Search
+C100703,2023-04-30,Ireland,55.0,Direct
+C100704,2023-04-01,Spain,43.0,Email
+C100705,2024-01-31,Ireland,49.0,Paid Social
+C100706,2023-01-06,United States,44.0,Paid Search
+C100707,2024-02-05,United Kingdom,35.0,Direct
+C100708,2023-11-30,France,35.0,Organic Search
+C100709,2023-11-23,USA,,Referral
+C100710,2024-04-20,USA,56.0,Direct
+C100711,2024-01-01,United States,23.0,Email
+C100712,2024-05-24,United States,72.0,Paid Search
+C100713,2024-06-18,United Kingdom,58.0,Referral
+C100714,2024-10-06,Germany,20.0,Organic Search
+C100715,2024-07-13,United Kingdom,59.0,Organic Search
+C100716,2023-12-29,Germany,51.0,Direct
+C100717,2023-12-11,France,70.0,Paid Search
+C100718,2023-06-14,United States,45.0,Organic Search
+C100719,2024-02-24,United States,47.0,Organic Search
+C100720,2023-04-08,united kingdom,35.0,Direct
+C100721,2024-10-13,Ireland,36.0,Organic Search
+C100722,2024-08-14,Germany,53.0,Organic Search
+C100723,2023-03-25,UK,65.0,Paid Search
+C100724,2024-07-04,United Kingdom,68.0,Direct
+C100725,2023-03-23,United Kingdom,61.0,Paid Search
+C100726,2024-05-19,United States,52.0,Referral
+C100727,2023-03-03,Spain,46.0,Paid Social
+C100728,2023-12-08,Germany,37.0,Paid Search
+C100729,2024-04-05,United Kingdom,61.0,Paid Social
+C100730,2024-05-25,France,36.0,Paid Social
+C100731,2023-10-21,UK,33.0,Paid Search
+C100732,2024-10-07,France,67.0,Referral
+C100733,2024-06-26,United Kingdom,51.0,Paid Search
+C100734,2023-05-26,USA,38.0,Organic Search
+C100735,2024-04-14,Spain,67.0,Paid Search
+C100736,2024-05-26,United Kingdom,72.0,Referral
+C100737,2023-08-22,Germany,36.0,Referral
+C100738,2024-05-31,Ireland,47.0,Paid Search
+C100739,2024-09-20,United Kingdom,45.0,Paid Social
+C100740,2024-07-25,United Kingdom,57.0,Direct
+C100741,2024-06-17,Germany,,Referral
+C100742,2024-03-20,UK,49.0,Direct
+C100743,2023-07-09,United Kingdom,63.0,Paid Search
+C100744,2024-07-10,United States,51.0,Referral
+C100745,2023-09-12,Germany,68.0,Organic Search
+C100746,2024-01-08,united kingdom,,Organic Search
+C100747,2023-08-09,UK,39.0,Paid Search
+C100748,2023-08-08,France,42.0,Paid Search
+C100749,2023-04-21,United States,74.0,Paid Search
+C100750,2024-11-03,France,52.0,Organic Search
+C100751,2023-04-14,United States,26.0,Paid Social
+C100752,2023-03-02,Spain,20.0,Direct
+C100753,2024-10-17,Germany,47.0,Direct
+C100754,2024-01-24,United Kingdom,,Organic Search
+C100755,2023-11-03,France,45.0,Referral
+C100756,2024-05-31,United States,49.0,Organic Search
+C100757,2023-09-26,United Kingdom,63.0,Email
+C100758,2023-03-31,United Kingdom,47.0,Organic Search
+C100759,2024-05-25,Germany,69.0,Organic Search
+C100760,2023-05-04,United Kingdom,54.0,Organic Search
+C100761,2024-01-23,united kingdom,59.0,Paid Search
+C100762,2024-10-26,United Kingdom,62.0,Direct
+C100763,2024-10-17,United States,53.0,Paid Search
+C100764,2023-09-10,United States,20.0,Email
+C100765,2024-06-30,United States,42.0,Paid Social
+C100766,2024-03-04,United Kingdom,26.0,Paid Social
+C100767,2023-12-02,United Kingdom,47.0,Referral
+C100768,2023-04-08,USA,26.0,Paid Social
+C100769,2023-09-21,UK,47.0,Direct
+C100770,2024-04-01,Germany,37.0,Direct
+C100771,2024-11-21,United Kingdom,19.0,Paid Search
+C100772,2023-01-04,United Kingdom,25.0,Organic Search
+C100773,2024-05-17,United Kingdom,46.0,Email
+C100774,2024-08-15,United States,22.0,Organic Search
+C100775,2024-10-27,United States,66.0,Organic Search
+C100776,2023-10-24,France,61.0,Direct
+C100777,2023-03-24,UK,58.0,Email
+C100778,2023-07-09,United States,27.0,Direct
+C100779,2024-08-18,USA,63.0,Organic Search
+C100780,2024-09-06,United Kingdom,54.0,Paid Search
+C100781,2024-03-21,United States,40.0,Paid Search
+C100782,2023-03-27,UK,18.0,Email
+C100783,2023-03-27,United States,48.0,Paid Search
+C100784,2023-12-01,United Kingdom,63.0,Organic Search
+C100785,2024-02-16,France,,Direct
+C100786,2023-01-23,Spain,20.0,Paid Search
+C100787,2024-04-25,United Kingdom,39.0,Direct
+C100788,2024-01-17,USA,47.0,Direct
+C100789,2023-01-09,Germany,45.0,Email
+C100790,2023-03-08,united kingdom,42.0,Direct
+C100791,2023-11-15,France,32.0,Referral
+C100792,2024-05-20,Germany,21.0,Organic Search
+C100793,2024-07-31,Spain,19.0,Organic Search
+C100794,2023-10-29,Ireland,23.0,Direct
+C100795,2023-07-26,United Kingdom,57.0,Referral
+C100796,2024-11-08,United States,62.0,Email
+C100797,2023-11-17,United States,42.0,Paid Search
+C100798,2023-08-09,United Kingdom,22.0,Referral
+C100799,2023-11-06,UK,41.0,Paid Social
+C100800,2023-01-09,Ireland,74.0,Paid Social
+C100801,2023-07-31,United Kingdom,32.0,Referral
+C100802,2023-12-27,United States,,Direct
+C100803,2024-10-04,France,48.0,Email
+C100804,2024-05-31,united kingdom,36.0,Email
+C100805,2024-06-30,United States,42.0,Direct
+C100806,2024-01-17,Ireland,44.0,Direct
+C100807,2023-03-19,United States,45.0,Direct
+C100808,2023-10-01,United Kingdom,58.0,Organic Search
+C100809,2024-11-28,United Kingdom,51.0,Direct
+C100810,2023-01-31,Spain,21.0,Email
+C100811,2024-09-07,United Kingdom,18.0,Organic Search
+C100812,2024-04-24,United States,41.0,Referral
+C100813,2023-07-18,United Kingdom,69.0,Direct
+C100814,2024-06-28,United States,20.0,Email
+C100815,2024-08-08,Spain,22.0,Direct
+C100816,2023-01-31,United States,56.0,Paid Social
+C100817,2023-03-16,Ireland,,Organic Search
+C100818,2024-04-11,United Kingdom,31.0,Paid Social
+C100819,2024-11-30,United States,29.0,Paid Social
+C100820,2023-01-17,France,55.0,Referral
+C100821,2024-04-10,United States,47.0,Direct
+C100822,2023-04-06,United Kingdom,54.0,Direct
+C100823,2024-03-31,France,33.0,Organic Search
+C100824,2024-03-12,United States,48.0,Paid Social
+C100825,2023-03-05,United States,,Organic Search
+C100826,2024-04-21,Ireland,36.0,Referral
+C100827,2024-09-19,United Kingdom,40.0,Organic Search
+C100828,2024-08-27,united kingdom,27.0,Email
+C100829,2023-01-21,United Kingdom,54.0,Direct
+C100830,2023-06-22,United States,19.0,Referral
+C100831,2023-06-18,United Kingdom,32.0,Paid Social
+C100832,2023-11-14,Germany,58.0,Paid Social
+C100833,2023-04-11,United Kingdom,19.0,Referral
+C100834,2024-08-21,Germany,74.0,Email
+C100835,2024-06-27,United Kingdom,41.0,Organic Search
+C100836,2024-07-19,UK,40.0,Paid Search
+C100837,2023-05-19,UK,48.0,Email
+C100838,2023-01-11,Germany,54.0,Email
+C100839,2024-09-29,United States,44.0,Organic Search
+C100840,2023-07-22,UK,68.0,Paid Social
+C100841,2024-04-04,France,72.0,Paid Social
+C100842,2024-09-28,United States,29.0,Paid Social
+C100843,2023-01-26,United Kingdom,58.0,Email
+C100844,2023-01-04,Spain,35.0,Email
+C100845,2023-01-04,UK,74.0,Paid Search
+C100846,2023-04-20,United Kingdom,32.0,Paid Search
+C100847,2023-02-06,United States,34.0,Organic Search
+C100848,2024-07-27,United Kingdom,58.0,Organic Search
+C100849,2024-02-29,United Kingdom,62.0,Direct
+C100850,2024-11-17,Germany,25.0,Paid Search
+C100851,2024-07-15,United Kingdom,49.0,Paid Search
+C100852,2024-11-05,France,,Organic Search
+C100853,2023-06-16,Spain,52.0,Paid Social
+C100854,2023-07-21,USA,49.0,Organic Search
+C100855,2024-08-17,Germany,74.0,Direct
+C100856,2023-06-21,Germany,71.0,Email
+C100857,2023-02-10,Ireland,55.0,Email
+C100858,2024-04-13,UK,56.0,Email
+C100859,2024-07-14,United Kingdom,69.0,Paid Social
+C100860,2024-11-08,United States,28.0,Referral
+C100861,2024-10-11,United States,59.0,Organic Search
+C100862,2023-03-26,United Kingdom,62.0,Referral
+C100863,2024-06-24,USA,25.0,Direct
+C100864,2024-08-15,United Kingdom,68.0,Referral
+C100865,2024-05-03,Spain,57.0,Paid Social
+C100866,2024-07-27,United Kingdom,,Direct
+C100867,2024-08-09,United Kingdom,45.0,Direct
+C100868,2023-11-09,United Kingdom,45.0,Organic Search
+C100869,2023-01-29,United Kingdom,70.0,Organic Search
+C100870,2023-11-16,United Kingdom,73.0,Referral
+C100871,2023-05-22,United Kingdom,63.0,Paid Social
+C100872,2023-03-21,United Kingdom,55.0,Organic Search
+C100873,2023-03-29,United Kingdom,23.0,Organic Search
+C100874,2024-05-03,UK,70.0,Organic Search
+C100875,2023-12-20,United States,,Email
+C100876,2024-01-13,UK,,Referral
+C100877,2024-06-05,united kingdom,21.0,Organic Search
+C100878,2024-01-19,United Kingdom,72.0,Direct
+C100879,2024-03-17,United Kingdom,46.0,Paid Social
+C100880,2023-03-02,United Kingdom,31.0,Paid Social
+C100881,2024-08-18,Germany,22.0,Organic Search
+C100882,2023-11-11,Ireland,41.0,Direct
+C100883,2023-04-19,Spain,59.0,Paid Search
+C100884,2024-07-23,United States,74.0,Email
+C100885,2024-05-29,United States,49.0,Organic Search
+C100886,2023-02-07,united kingdom,52.0,Paid Social
+C100887,2023-05-16,Germany,65.0,Organic Search
+C100888,2023-01-12,Germany,69.0,Direct
+C100889,2023-07-09,France,33.0,Organic Search
+C100890,2023-03-11,France,74.0,Paid Search
+C100891,2024-05-11,United States,47.0,Email
+C100892,2024-01-01,Germany,71.0,Email
+C100893,2024-11-17,France,24.0,Direct
+C100894,2024-06-08,united kingdom,23.0,Organic Search
+C100895,2024-03-04,Spain,68.0,Direct
+C100896,2023-12-23,United Kingdom,56.0,Organic Search
+C100897,2023-02-08,Ireland,27.0,Direct
+C100898,2023-02-19,Germany,69.0,Email
+C100899,2024-03-07,United Kingdom,23.0,Organic Search
+C100900,2023-01-04,Germany,56.0,Direct
+C100901,2023-01-30,United Kingdom,29.0,Organic Search
+C100902,2023-06-03,Germany,22.0,Organic Search
+C100903,2024-09-10,France,63.0,Direct
+C100904,2023-11-18,USA,66.0,Email
+C100905,2024-05-11,France,24.0,Paid Search
+C100906,2023-10-16,United Kingdom,23.0,Referral
+C100907,2023-05-02,United Kingdom,53.0,Referral
+C100908,2023-09-17,United States,19.0,Paid Social
+C100909,2023-03-06,United Kingdom,60.0,Organic Search
+C100910,2024-06-23,United States,70.0,Paid Search
+C100911,2023-05-09,United Kingdom,60.0,Organic Search
+C100912,2023-09-21,United States,31.0,Email
+C100913,2024-11-17,United States,28.0,Paid Social
+C100914,2024-02-19,France,56.0,Paid Social
+C100915,2023-11-17,United Kingdom,21.0,Email
+C100916,2024-01-16,France,48.0,Direct
+C100917,2024-07-02,United States,43.0,Direct
+C100918,2023-06-28,united kingdom,60.0,Paid Search
+C100919,2024-03-21,United States,29.0,Paid Social
+C100920,2024-09-02,United States,61.0,Email
+C100921,2024-02-05,United Kingdom,57.0,Organic Search
+C100922,2023-11-09,United States,31.0,Direct
+C100923,2023-04-12,United Kingdom,38.0,Paid Social
+C100924,2023-06-23,UK,21.0,Email
+C100925,2024-10-24,United States,43.0,Organic Search
+C100926,2024-01-14,United States,32.0,Direct
+C100927,2023-07-30,France,24.0,Direct
+C100928,2023-10-20,United Kingdom,49.0,Paid Search
+C100929,2024-02-09,Ireland,50.0,Organic Search
+C100930,2024-01-12,France,22.0,Paid Search
+C100931,2024-05-04,Ireland,28.0,Organic Search
+C100932,2023-06-30,France,22.0,Paid Social
+C100933,2024-03-30,United Kingdom,,Organic Search
+C100934,2023-11-06,United States,37.0,Paid Social
+C100935,2024-10-20,United Kingdom,22.0,Email
+C100936,2023-04-21,France,28.0,Organic Search
+C100937,2023-04-14,USA,73.0,Paid Social
+C100938,2023-11-20,United Kingdom,32.0,Referral
+C100939,2023-12-22,Spain,57.0,Direct
+C100940,2024-04-28,United Kingdom,44.0,Referral
+C100941,2023-10-10,United States,28.0,Email
+C100942,2024-10-01,Germany,35.0,Organic Search
+C100943,2023-11-28,United Kingdom,18.0,Direct
+C100944,2023-04-01,USA,60.0,Organic Search
+C100945,2023-03-25,France,,Paid Social
+C100946,2024-11-12,United Kingdom,46.0,Organic Search
+C100947,2023-04-04,United States,26.0,Referral
+C100948,2024-10-25,United Kingdom,64.0,Paid Social
+C100949,2023-07-14,Germany,30.0,Referral
+C100950,2023-03-07,United Kingdom,50.0,Paid Social
+C100951,2023-08-02,Spain,67.0,Email
+C100952,2024-03-06,France,58.0,Email
+C100953,2023-10-27,United Kingdom,52.0,Organic Search
+C100954,2024-07-03,united kingdom,68.0,Paid Social
+C100955,2024-03-03,USA,28.0,Referral
+C100956,2023-10-08,Germany,72.0,Email
+C100957,2024-03-20,United States,,Organic Search
+C100958,2024-11-11,United Kingdom,41.0,Referral
+C100959,2023-10-16,United Kingdom,32.0,Paid Social
+C100960,2023-04-18,Ireland,60.0,Organic Search
+C100961,2023-10-14,United States,73.0,Organic Search
+C100962,2024-08-11,France,57.0,Email
+C100963,2023-06-02,United States,19.0,Paid Social
+C100964,2024-10-26,Spain,44.0,Referral
+C100965,2024-02-16,United Kingdom,59.0,Organic Search
+C100966,2024-02-26,United Kingdom,40.0,Direct
+C100967,2023-08-10,Spain,62.0,Paid Social
+C100968,2024-10-06,Spain,58.0,Referral
+C100969,2023-01-26,united kingdom,21.0,Direct
+C100970,2023-07-29,UK,49.0,Paid Social
+C100971,2023-10-20,United States,27.0,Organic Search
+C100972,2023-12-01,United States,45.0,Email
+C100973,2023-11-28,United Kingdom,39.0,Paid Search
+C100974,2023-04-14,France,63.0,Paid Search
+C100975,2023-06-07,United Kingdom,67.0,Organic Search
+C100976,2023-03-08,Germany,44.0,Direct
+C100977,2024-02-05,United Kingdom,48.0,Paid Social
+C100978,2023-09-03,United Kingdom,53.0,Organic Search
+C100979,2024-02-01,Germany,55.0,Referral
+C100980,2024-02-17,UK,54.0,Email
+C100981,2024-05-06,Germany,62.0,Email
+C100982,2024-01-18,United Kingdom,73.0,Direct
+C100983,2024-03-29,Spain,65.0,Paid Social
+C100984,2024-02-16,Germany,25.0,Referral
+C100985,2024-04-01,France,45.0,Paid Social
+C100986,2024-03-07,United Kingdom,44.0,Organic Search
+C100987,2023-08-10,united kingdom,47.0,Paid Social
+C100988,2023-06-22,UK,48.0,Paid Search
+C100989,2024-07-05,United States,58.0,Email
+C100990,2023-08-28,united kingdom,41.0,Organic Search
+C100991,2024-01-20,United Kingdom,33.0,Referral
+C100992,2023-05-18,UK,44.0,Paid Search
+C100993,2023-10-29,United Kingdom,66.0,Paid Search
+C100994,2024-01-06,United States,35.0,Email
+C100995,2024-03-14,United Kingdom,19.0,Paid Social
+C100996,2024-01-04,United Kingdom,73.0,Email
+C100997,2023-09-10,USA,29.0,Direct
+C100998,2024-11-04,United States,52.0,Paid Search
+C100999,2023-12-25,UK,63.0,Direct
+C101000,2024-07-19,United States,33.0,Email
+C101001,2024-05-30,Germany,37.0,Organic Search
+C101002,2024-01-26,UK,33.0,Email
+C101003,2024-09-12,USA,26.0,Organic Search
+C101004,2023-03-31,Ireland,26.0,Organic Search
+C101005,2024-10-06,United States,28.0,Email
+C101006,2024-08-18,Spain,44.0,Referral
+C101007,2023-12-19,France,48.0,Paid Search
+C101008,2024-05-28,United Kingdom,18.0,Direct
+C101009,2023-12-31,United States,66.0,Paid Search
+C101010,2023-07-08,Germany,56.0,Direct
+C101011,2024-07-13,Ireland,22.0,Direct
+C101012,2023-06-22,United States,66.0,Organic Search
+C101013,2023-08-09,United Kingdom,19.0,Referral
+C101014,2023-12-30,United States,49.0,Organic Search
+C101015,2024-08-09,United Kingdom,44.0,Organic Search
+C101016,2023-09-26,Germany,46.0,Organic Search
+C101017,2023-12-12,United States,72.0,Direct
+C101018,2023-01-30,Germany,70.0,Direct
+C101019,2023-03-23,France,33.0,Paid Search
+C101020,2023-02-09,USA,51.0,Paid Search
+C101021,2023-02-20,USA,72.0,Paid Search
+C101022,2024-08-30,Germany,59.0,Organic Search
+C101023,2024-08-12,France,68.0,Paid Search
+C101024,2024-07-29,France,42.0,Direct
+C101025,2023-02-08,United Kingdom,34.0,Paid Search
+C101026,2023-02-24,United States,47.0,Organic Search
+C101027,2023-07-16,United Kingdom,64.0,Organic Search
+C101028,2024-01-31,France,70.0,Paid Search
+C101029,2023-08-22,Germany,57.0,Organic Search
+C101030,2023-12-08,United States,58.0,Paid Social
+C101031,2023-05-02,United Kingdom,47.0,Email
+C101032,2024-05-26,UK,36.0,Organic Search
+C101033,2023-08-08,Germany,42.0,Organic Search
+C101034,2023-02-16,United Kingdom,46.0,Paid Search
+C101035,2024-06-03,United Kingdom,64.0,Paid Search
+C101036,2024-09-23,France,49.0,Paid Search
+C101037,2023-01-11,Germany,63.0,Paid Social
+C101038,2023-11-02,United Kingdom,19.0,Organic Search
+C101039,2024-08-02,united kingdom,61.0,Paid Social
+C101040,2024-05-09,Ireland,46.0,Email
+C101041,2024-08-22,Germany,74.0,Organic Search
+C101042,2023-10-18,USA,44.0,Direct
+C101043,2023-09-18,united kingdom,45.0,Paid Search
+C101044,2024-05-11,united kingdom,25.0,Email
+C101045,2023-04-18,United Kingdom,63.0,Paid Social
+C101046,2023-06-17,Germany,57.0,Paid Social
+C101047,2024-02-25,United Kingdom,67.0,Organic Search
+C101048,2024-04-12,United Kingdom,23.0,Paid Social
+C101049,2023-03-25,Germany,30.0,Email
+C101050,2023-12-22,Spain,67.0,Paid Social
+C101051,2023-09-13,Germany,20.0,Email
+C101052,2023-12-18,United States,46.0,Direct
+C101053,2024-11-01,United States,41.0,Organic Search
+C101054,2023-02-23,United States,71.0,Organic Search
+C101055,2024-11-27,united kingdom,66.0,Organic Search
+C101056,2023-11-11,United States,69.0,Organic Search
+C101057,2024-06-24,United States,34.0,Email
+C101058,2023-10-25,USA,51.0,Direct
+C101059,2023-08-06,France,,Paid Search
+C101060,2024-06-23,Ireland,73.0,Referral
+C101061,2024-04-26,United Kingdom,18.0,Paid Social
+C101062,2023-04-11,United States,73.0,Organic Search
+C101063,2024-05-08,United Kingdom,38.0,Paid Social
+C101064,2024-06-11,UK,25.0,Paid Social
+C101065,2023-09-29,united kingdom,53.0,Paid Search
+C101066,2024-10-09,United Kingdom,62.0,Email
+C101067,2024-03-24,Germany,25.0,Organic Search
+C101068,2023-08-22,United States,20.0,Paid Social
+C101069,2023-01-08,Spain,69.0,Organic Search
+C101070,2024-04-17,United Kingdom,71.0,Paid Search
+C101071,2023-05-27,United Kingdom,26.0,Organic Search
+C101072,2024-06-13,United States,69.0,Organic Search
+C101073,2024-01-03,United Kingdom,69.0,Organic Search
+C101074,2023-11-23,United Kingdom,74.0,Direct
+C101075,2023-04-25,Ireland,30.0,Email
+C101076,2024-05-13,United Kingdom,50.0,Referral
+C101077,2023-04-27,United Kingdom,74.0,Paid Social
+C101078,2023-10-20,United States,69.0,Organic Search
+C101079,2024-08-08,United States,52.0,Paid Search
+C101080,2024-10-06,USA,29.0,Organic Search
+C101081,2024-11-23,UK,22.0,Organic Search
+C101082,2024-11-01,France,32.0,Email
+C101083,2024-01-25,United Kingdom,21.0,Organic Search
+C101084,2023-05-21,United States,29.0,Organic Search
+C101085,2024-08-10,Germany,22.0,Direct
+C101086,2024-07-15,France,61.0,Email
+C101087,2024-11-24,UK,51.0,Organic Search
+C101088,2024-03-31,United States,47.0,Paid Social
+C101089,2023-04-10,United Kingdom,64.0,Direct
+C101090,2023-12-19,United Kingdom,41.0,Organic Search
+C101091,2023-11-10,United Kingdom,40.0,Organic Search
+C101092,2024-08-13,Germany,29.0,Referral
+C101093,2023-10-02,united kingdom,43.0,Referral
+C101094,2023-08-19,Germany,27.0,Paid Search
+C101095,2023-02-26,United Kingdom,51.0,Paid Social
+C101096,2024-08-07,France,74.0,Organic Search
+C101097,2024-06-12,France,48.0,Email
+C101098,2023-01-29,United Kingdom,35.0,Referral
+C101099,2023-10-31,United Kingdom,57.0,Organic Search
+C101100,2023-12-02,United Kingdom,64.0,Email
+C101101,2023-11-25,France,44.0,Organic Search
+C101102,2024-10-05,United Kingdom,32.0,Direct
+C101103,2023-04-16,United States,58.0,Direct
+C101104,2023-08-03,United States,28.0,Paid Social
+C101105,2023-05-07,France,74.0,Paid Search
+C101106,2023-06-20,United States,36.0,Paid Search
+C101107,2024-09-26,United States,37.0,Organic Search
+C101108,2024-10-20,Ireland,59.0,Paid Social
+C101109,2023-02-01,United Kingdom,18.0,Referral
+C101110,2024-03-18,France,29.0,Organic Search
+C101111,2023-06-12,United Kingdom,25.0,Paid Social
+C101112,2023-05-15,United States,40.0,Paid Social
+C101113,2023-07-24,France,49.0,Paid Search
+C101114,2023-05-17,Germany,28.0,Paid Social
+C101115,2023-12-10,Germany,37.0,Direct
+C101116,2024-11-27,United Kingdom,62.0,Paid Social
+C101117,2024-02-15,United States,71.0,Organic Search
+C101118,2024-05-21,UK,18.0,Paid Search
+C101119,2023-12-12,United States,53.0,Organic Search
+C101120,2023-01-10,United States,19.0,Organic Search
+C101121,2023-02-28,united kingdom,,Paid Social
+C101122,2023-07-08,united kingdom,68.0,Referral
+C101123,2023-06-20,United Kingdom,63.0,Paid Social
+C101124,2024-08-11,UK,31.0,Organic Search
+C101125,2024-08-13,United Kingdom,32.0,Paid Social
+C101126,2024-08-20,France,62.0,Organic Search
+C101127,2024-03-22,USA,,Organic Search
+C101128,2024-01-25,United Kingdom,34.0,Email
+C101129,2024-03-30,Germany,18.0,Organic Search
+C101130,2023-10-12,France,43.0,Paid Social
+C101131,2024-04-14,United Kingdom,53.0,Referral
+C101132,2024-07-10,United Kingdom,43.0,Direct
+C101133,2024-06-18,United Kingdom,71.0,Paid Social
+C101134,2024-03-05,United Kingdom,64.0,Paid Social
+C101135,2023-02-10,Germany,,Organic Search
+C101136,2024-05-22,Ireland,19.0,Paid Search
+C101137,2023-09-14,United Kingdom,66.0,Organic Search
+C101138,2024-06-04,Germany,61.0,Organic Search
+C101139,2024-01-13,United Kingdom,40.0,Paid Social
+C101140,2024-09-08,USA,51.0,Organic Search
+C101141,2023-08-25,Germany,64.0,Organic Search
+C101142,2024-10-13,UK,69.0,Organic Search
+C101143,2024-08-14,United Kingdom,49.0,Referral
+C101144,2023-08-20,USA,20.0,Referral
+C101145,2023-12-04,Ireland,53.0,Referral
+C101146,2024-01-07,United Kingdom,56.0,Direct
+C101147,2024-06-22,United Kingdom,21.0,Paid Social
+C101148,2024-04-27,United Kingdom,64.0,Paid Search
+C101149,2024-08-19,United States,29.0,Direct
+C101150,2023-09-16,USA,68.0,Direct
+C101151,2023-12-20,France,,Direct
+C101152,2023-10-29,Germany,36.0,Paid Social
+C101153,2024-09-28,France,21.0,Paid Social
+C101154,2023-08-02,France,19.0,Paid Social
+C101155,2024-02-15,United Kingdom,60.0,Organic Search
+C101156,2023-03-26,United States,39.0,Email
+C101157,2024-08-18,united kingdom,65.0,Organic Search
+C101158,2023-09-26,united kingdom,31.0,Organic Search
+C101159,2023-08-27,Spain,70.0,Paid Search
+C101160,2024-02-13,Germany,71.0,Referral
+C101161,2023-12-16,Ireland,23.0,Email
+C101162,2024-08-16,United States,54.0,Paid Social
+C101163,2024-01-07,United States,71.0,Email
+C101164,2023-12-28,United States,36.0,Paid Search
+C101165,2023-03-15,United Kingdom,21.0,Referral
+C101166,2023-01-16,United Kingdom,,Referral
+C101167,2023-10-06,United States,45.0,Email
+C101168,2024-11-29,United Kingdom,19.0,Paid Social
+C101169,2024-10-04,Spain,65.0,Referral
+C101170,2024-03-16,United Kingdom,56.0,Paid Search
+C101171,2024-03-17,United Kingdom,22.0,Paid Social
+C101172,2023-10-02,Germany,32.0,Paid Social
+C101173,2023-05-05,United Kingdom,19.0,Paid Social
+C101174,2023-01-06,Spain,72.0,Paid Social
+C101175,2023-08-26,Germany,19.0,Paid Search
+C101176,2023-08-10,United Kingdom,63.0,Direct
+C101177,2023-05-15,Germany,47.0,Paid Social
+C101178,2023-07-01,Germany,51.0,Paid Social
+C101179,2023-01-18,Germany,,Paid Social
+C101180,2024-03-01,France,69.0,Organic Search
+C101181,2024-10-11,Germany,25.0,Email
+C101182,2024-04-28,USA,19.0,Direct
+C101183,2023-11-10,united kingdom,25.0,Referral
+C101184,2023-10-22,Germany,56.0,Organic Search
+C101185,2023-08-04,Spain,50.0,Direct
+C101186,2023-04-10,USA,22.0,Direct
+C101187,2024-02-23,Germany,31.0,Paid Social
+C101188,2024-02-01,United States,48.0,Referral
+C101189,2023-01-06,Germany,59.0,Referral
+C101190,2023-10-18,Ireland,37.0,Direct
+C101191,2023-07-14,United Kingdom,72.0,Organic Search
+C101192,2023-04-30,United Kingdom,74.0,Organic Search
+C101193,2024-05-07,United States,61.0,Email
+C101194,2024-01-04,United States,,Organic Search
+C101195,2024-03-19,United States,67.0,Paid Social
+C101196,2024-05-14,United Kingdom,59.0,Direct
+C101197,2024-11-18,United States,47.0,Organic Search
+C101198,2024-07-15,USA,43.0,Email
+C101199,2024-03-10,USA,65.0,Paid Search
+C101200,2024-09-07,Germany,49.0,Email
+C101201,2023-12-01,Germany,28.0,Email
+C101202,2024-11-20,Germany,74.0,Email
+C101203,2024-06-17,France,21.0,Organic Search
+C101204,2024-03-31,USA,57.0,Organic Search
+C101205,2024-09-24,United States,55.0,Referral
+C101206,2023-12-27,USA,51.0,Paid Social
+C101207,2024-05-19,United Kingdom,20.0,Paid Social
+C101208,2023-07-19,United Kingdom,46.0,Organic Search
+C101209,2024-11-05,United States,68.0,Direct
+C101210,2024-03-12,France,31.0,Organic Search
+C101211,2024-07-01,Germany,57.0,Direct
+C101212,2023-11-19,United Kingdom,66.0,Paid Social
+C101213,2024-08-29,USA,72.0,Email
+C101214,2023-02-21,United Kingdom,47.0,Organic Search
+C101215,2023-03-21,Germany,35.0,Organic Search
+C101216,2023-12-21,France,57.0,Email
+C101217,2024-05-27,USA,45.0,Referral
+C101218,2024-07-20,USA,53.0,Organic Search
+C101219,2023-11-05,UK,60.0,Paid Social
+C101220,2024-03-30,United States,58.0,Paid Social
+C101221,2024-01-23,France,31.0,Organic Search
+C101222,2024-11-04,Germany,61.0,Email
+C101223,2024-04-02,United States,48.0,Organic Search
+C101224,2023-10-19,UK,71.0,Email
+C101225,2024-11-09,United Kingdom,55.0,Organic Search
+C101226,2023-03-17,United Kingdom,68.0,Email
+C101227,2024-11-20,United Kingdom,73.0,Paid Social
+C101228,2023-04-18,UK,74.0,Email
+C101229,2023-07-21,Spain,60.0,Paid Social
+C101230,2024-07-29,United States,52.0,Paid Search
+C101231,2024-05-28,United Kingdom,24.0,Email
+C101232,2024-11-10,United Kingdom,40.0,Direct
+C101233,2024-06-08,UK,45.0,Organic Search
+C101234,2024-03-21,France,62.0,Paid Social
+C101235,2023-08-31,United States,51.0,Organic Search
+C101236,2023-01-04,Germany,,Paid Social
+C101237,2023-03-28,France,26.0,Referral
+C101238,2023-07-28,United Kingdom,58.0,Direct
+C101239,2023-01-29,USA,42.0,Email
+C101240,2023-12-22,Spain,20.0,Referral
+C101241,2024-06-28,United States,34.0,Organic Search
+C101242,2024-11-05,United Kingdom,68.0,Organic Search
+C101243,2023-12-09,Spain,24.0,Direct
+C101244,2024-09-04,France,41.0,Organic Search
+C101245,2024-11-20,United States,,Organic Search
+C101246,2024-08-24,United States,22.0,Paid Search
+C101247,2023-11-22,United Kingdom,27.0,Paid Search
+C101248,2023-08-16,France,71.0,Referral
+C101249,2024-11-15,United States,51.0,Paid Social
+C101250,2023-06-19,United Kingdom,29.0,Direct
+C101251,2023-10-16,Germany,27.0,Organic Search
+C101252,2023-02-21,Spain,42.0,Paid Social
+C101253,2024-07-09,France,59.0,Paid Social
+C101254,2024-03-30,United Kingdom,59.0,Paid Search
+C101255,2023-03-01,United Kingdom,29.0,Paid Search
+C101256,2023-06-05,Spain,59.0,Referral
+C101257,2024-01-24,Spain,69.0,Organic Search
+C101258,2024-01-14,United States,30.0,Email
+C101259,2024-07-15,Germany,19.0,Organic Search
+C101260,2023-07-06,United States,72.0,Paid Search
+C101261,2024-10-09,United States,47.0,Organic Search
+C101262,2023-11-08,United Kingdom,62.0,Organic Search
+C101263,2024-07-29,United Kingdom,36.0,Direct
+C101264,2023-06-16,United Kingdom,35.0,Email
+C101265,2023-01-26,France,30.0,Direct
+C101266,2023-02-08,United Kingdom,30.0,Organic Search
+C101267,2023-09-18,United Kingdom,44.0,Direct
+C101268,2024-10-29,United States,24.0,Organic Search
+C101269,2023-02-04,United Kingdom,65.0,Organic Search
+C101270,2023-09-16,United Kingdom,47.0,Email
+C101271,2023-03-18,United States,70.0,Organic Search
+C101272,2024-10-14,UK,,Email
+C101273,2024-04-17,USA,35.0,Organic Search
+C101274,2024-06-17,Spain,47.0,Organic Search
+C101275,2024-05-14,United Kingdom,26.0,Direct
+C101276,2024-04-04,Spain,64.0,Organic Search
+C101277,2024-06-25,Spain,59.0,Referral
+C101278,2023-01-06,France,26.0,Direct
+C101279,2024-08-28,Germany,51.0,Organic Search
+C101280,2024-06-01,USA,48.0,Direct
+C101281,2024-06-01,Germany,29.0,Paid Social
+C101282,2023-10-03,Germany,24.0,Paid Social
+C101283,2024-07-14,United Kingdom,61.0,Organic Search
+C101284,2023-09-25,Spain,33.0,Direct
+C101285,2023-02-04,USA,47.0,Email
+C101286,2024-09-27,France,32.0,Email
+C101287,2023-06-14,UK,55.0,Paid Search
+C101288,2023-03-13,United Kingdom,20.0,Paid Social
+C101289,2024-03-11,United States,38.0,Paid Search
+C101290,2023-06-13,United States,49.0,Direct
+C101291,2024-08-23,United States,43.0,Paid Search
+C101292,2023-11-07,UK,52.0,Paid Search
+C101293,2023-01-04,United Kingdom,28.0,Paid Search
+C101294,2024-10-28,United States,43.0,Organic Search
+C101295,2023-12-27,UK,61.0,Direct
+C101296,2023-07-04,Ireland,37.0,Direct
+C101297,2024-04-19,United Kingdom,26.0,Referral
+C101298,2024-01-07,united kingdom,66.0,Paid Social
+C101299,2023-01-21,united kingdom,62.0,Paid Search
+C101300,2024-06-15,United States,56.0,Organic Search
+C101301,2023-10-08,United States,63.0,Email
+C101302,2024-05-04,Germany,62.0,Email
+C101303,2024-09-18,Spain,60.0,Organic Search
+C101304,2024-03-03,united kingdom,47.0,Direct
+C101305,2024-04-15,Germany,19.0,Organic Search
+C101306,2023-06-28,United Kingdom,52.0,Referral
+C101307,2023-06-16,United Kingdom,33.0,Direct
+C101308,2023-10-18,United States,62.0,Paid Social
+C101309,2024-08-19,United Kingdom,44.0,Direct
+C101310,2024-01-02,USA,,Organic Search
+C101311,2023-09-01,Germany,,Direct
+C101312,2024-06-29,Germany,49.0,Paid Search
+C101313,2024-08-20,United States,70.0,Organic Search
+C101314,2024-09-23,USA,45.0,Referral
+C101315,2023-07-29,United States,39.0,Email
+C101316,2024-05-11,United Kingdom,,Email
+C101317,2024-02-18,United Kingdom,67.0,Direct
+C101318,2023-11-11,Germany,61.0,Email
+C101319,2023-10-05,Ireland,27.0,Referral
+C101320,2023-03-22,United Kingdom,46.0,Organic Search
+C101321,2023-07-12,United States,39.0,Paid Social
+C101322,2024-01-20,Germany,54.0,Paid Search
+C101323,2024-09-12,France,20.0,Organic Search
+C101324,2024-08-29,United States,58.0,Email
+C101325,2023-05-12,USA,60.0,Organic Search
+C101326,2024-04-20,Germany,30.0,Direct
+C101327,2023-03-01,France,26.0,Email
+C101328,2024-04-17,United Kingdom,53.0,Paid Social
+C101329,2023-08-28,Spain,32.0,Organic Search
+C101330,2023-11-11,United Kingdom,71.0,Paid Social
+C101331,2024-05-17,France,62.0,Paid Search
+C101332,2023-10-25,United Kingdom,72.0,Email
+C101333,2024-07-19,United Kingdom,48.0,Email
+C101334,2024-01-09,United Kingdom,71.0,Direct
+C101335,2024-11-30,United States,18.0,Paid Social
+C101336,2024-03-22,UK,34.0,Paid Social
+C101337,2023-07-27,United Kingdom,18.0,Paid Social
+C101338,2024-06-26,United States,56.0,Organic Search
+C101339,2023-10-13,United States,47.0,Direct
+C101340,2024-01-09,Germany,34.0,Paid Search
+C101341,2023-04-06,France,35.0,Paid Search
+C101342,2023-03-25,Germany,54.0,Paid Search
+C101343,2024-02-07,United Kingdom,28.0,Email
+C101344,2023-05-11,united kingdom,47.0,Paid Social
+C101345,2024-11-29,Spain,52.0,Referral
+C101346,2024-08-21,United Kingdom,31.0,Paid Search
+C101347,2024-05-05,United States,31.0,Direct
+C101348,2024-05-29,Spain,38.0,Email
+C101349,2024-02-21,Spain,51.0,Referral
+C101350,2023-02-12,United States,32.0,Direct
+C101351,2023-10-02,Germany,39.0,Paid Search
+C101352,2023-12-14,United States,48.0,Direct
+C101353,2024-10-02,Germany,28.0,Paid Social
+C101354,2023-06-03,United Kingdom,50.0,Paid Social
+C101355,2023-12-14,United Kingdom,25.0,Email
+C101356,2023-08-29,USA,26.0,Paid Social
+C101357,2023-04-05,United Kingdom,31.0,Paid Search
+C101358,2023-03-14,Germany,,Email
+C101359,2023-09-13,UK,19.0,Email
+C101360,2023-02-27,France,,Paid Social
+C101361,2023-02-17,France,35.0,Referral
+C101362,2023-09-03,United States,63.0,Email
+C101363,2023-05-22,Germany,69.0,Organic Search
+C101364,2024-01-24,United Kingdom,,Paid Search
+C101365,2023-01-13,United States,,Paid Social
+C101366,2023-07-31,United Kingdom,23.0,Paid Social
+C101367,2023-11-14,France,39.0,Organic Search
+C101368,2024-11-05,France,60.0,Email
+C101369,2024-03-20,Spain,50.0,Direct
+C101370,2024-09-08,France,18.0,Paid Search
+C101371,2023-08-29,Spain,50.0,Organic Search
+C101372,2023-11-11,United Kingdom,63.0,Paid Search
+C101373,2023-10-22,Spain,65.0,Direct
+C101374,2024-09-13,United States,39.0,Paid Social
+C101375,2024-11-02,United States,31.0,Organic Search
+C101376,2024-11-04,United States,35.0,Paid Social
+C101377,2024-06-10,UK,34.0,Paid Search
+C101378,2023-12-19,united kingdom,37.0,Paid Social
+C101379,2024-01-14,United Kingdom,35.0,Email
+C101380,2024-11-17,United Kingdom,44.0,Direct
+C101381,2023-07-19,United States,20.0,Paid Search
+C101382,2023-08-31,France,33.0,Referral
+C101383,2024-09-19,Germany,35.0,Direct
+C101384,2023-09-28,United States,26.0,Organic Search
+C101385,2023-06-14,United States,68.0,Paid Search
+C101386,2024-01-28,United States,56.0,Paid Social
+C101387,2023-08-16,United Kingdom,69.0,Organic Search
+C101388,2024-09-15,France,50.0,Paid Search
+C101389,2024-09-28,United Kingdom,24.0,Organic Search
+C101390,2023-08-03,Germany,69.0,Organic Search
+C101391,2024-01-06,Germany,,Referral
+C101392,2024-11-19,United States,57.0,Paid Social
+C101393,2024-06-03,France,39.0,Organic Search
+C101394,2023-05-31,united kingdom,46.0,Referral
+C101395,2024-02-18,France,45.0,Direct
+C101396,2024-03-09,Germany,34.0,Direct
+C101397,2024-04-02,France,49.0,Organic Search
+C101398,2023-01-18,Germany,59.0,Email
+C101399,2023-07-29,France,19.0,Direct
+C101400,2024-08-21,Ireland,,Organic Search
+C101401,2023-06-18,United States,66.0,Organic Search
+C101402,2023-07-29,France,50.0,Organic Search
+C101403,2023-08-14,Germany,73.0,Email
+C101404,2023-05-05,United States,52.0,Organic Search
+C101405,2023-04-19,Spain,55.0,Direct
+C101406,2023-08-31,United States,69.0,Paid Search
+C101407,2024-09-04,United States,55.0,Organic Search
+C101408,2023-01-02,United Kingdom,36.0,Referral
+C101409,2023-07-18,United Kingdom,48.0,Organic Search
+C101410,2023-02-12,France,31.0,Organic Search
+C101411,2024-01-29,United States,,Direct
+C101412,2023-06-25,United States,56.0,Paid Social
+C101413,2024-07-08,United Kingdom,26.0,Paid Search
+C101414,2024-02-14,United States,56.0,Email
+C101415,2024-07-02,France,51.0,Organic Search
+C101416,2024-03-20,France,35.0,Paid Social
+C101417,2023-11-03,United Kingdom,20.0,Organic Search
+C101418,2024-08-25,United States,58.0,Paid Search
+C101419,2023-11-30,United States,64.0,Referral
+C101420,2024-10-26,USA,59.0,Paid Social
+C101421,2024-11-27,United States,41.0,Email
+C101422,2024-02-17,United States,55.0,Referral
+C101423,2024-04-17,United States,41.0,Direct
+C101424,2023-06-28,USA,38.0,Organic Search
+C101425,2024-07-24,United States,36.0,Organic Search
+C101426,2024-04-15,United States,30.0,Organic Search
+C101427,2024-09-23,France,73.0,Paid Social
+C101428,2023-07-06,Germany,55.0,Email
+C101429,2024-07-05,UK,27.0,Organic Search
+C101430,2023-11-26,France,67.0,Paid Social
+C101431,2023-05-10,France,26.0,Paid Social
+C101432,2023-04-30,United Kingdom,51.0,Organic Search
+C101433,2024-01-29,USA,27.0,Paid Search
+C101434,2023-08-12,united kingdom,38.0,Email
+C101435,2023-03-13,Germany,55.0,Paid Social
+C101436,2023-10-27,United Kingdom,74.0,Email
+C101437,2024-04-02,Germany,74.0,Paid Social
+C101438,2023-08-12,United Kingdom,69.0,Paid Search
+C101439,2024-10-30,United States,31.0,Email
+C101440,2024-06-29,Spain,23.0,Email
+C101441,2023-12-25,United States,69.0,Paid Search
+C101442,2024-10-16,France,70.0,Direct
+C101443,2023-10-31,Ireland,33.0,Direct
+C101444,2023-04-08,France,19.0,Organic Search
+C101445,2023-01-26,United Kingdom,54.0,Organic Search
+C101446,2024-10-18,France,22.0,Referral
+C101447,2024-11-02,United Kingdom,20.0,Email
+C101448,2024-06-01,United States,,Referral
+C101449,2023-03-14,France,46.0,Direct
+C101450,2023-07-25,Germany,24.0,Paid Social
+C101451,2023-01-29,United States,55.0,Paid Social
+C101452,2023-02-05,United States,39.0,Email
+C101453,2023-06-22,France,48.0,Paid Social
+C101454,2024-02-05,Germany,69.0,Referral
+C101455,2023-02-15,United States,31.0,Direct
+C101456,2024-11-20,France,54.0,Email
+C101457,2023-11-15,United Kingdom,65.0,Direct
+C101458,2023-07-04,United Kingdom,42.0,Email
+C101459,2023-12-28,Germany,73.0,Direct
+C101460,2024-07-07,Ireland,43.0,Organic Search
+C101461,2023-08-07,United Kingdom,44.0,Direct
+C101462,2023-02-03,United Kingdom,68.0,Direct
+C101463,2023-02-05,United Kingdom,54.0,Paid Social
+C101464,2024-08-19,France,67.0,Email
+C101465,2023-03-20,United Kingdom,63.0,Paid Search
+C101466,2024-03-20,United States,58.0,Organic Search
+C101467,2023-09-27,Ireland,31.0,Direct
+C101468,2024-06-28,United Kingdom,40.0,Paid Search
+C101469,2023-02-12,United States,67.0,Paid Search
+C101470,2024-09-20,United States,53.0,Paid Social
+C101471,2024-05-03,France,33.0,Referral
+C101472,2023-11-11,UK,36.0,Paid Search
+C101473,2023-05-25,United States,62.0,Email
+C101474,2024-11-14,United Kingdom,28.0,Organic Search
+C101475,2023-07-31,Germany,24.0,Organic Search
+C101476,2023-12-10,France,61.0,Direct
+C101477,2023-10-03,United Kingdom,34.0,Paid Social
+C101478,2023-06-11,United States,61.0,Organic Search
+C101479,2023-10-19,France,48.0,Paid Social
+C101480,2023-04-17,United Kingdom,74.0,Direct
+C101481,2023-01-02,united kingdom,47.0,Email
+C101482,2023-07-22,United States,67.0,Paid Search
+C101483,2023-03-20,UK,66.0,Direct
+C101484,2023-10-18,United Kingdom,30.0,Paid Search
+C101485,2024-08-26,United States,74.0,Paid Search
+C101486,2023-04-24,United Kingdom,60.0,Paid Social
+C101487,2023-01-01,United States,24.0,Referral
+C101488,2023-03-19,Germany,18.0,Organic Search
+C101489,2023-12-22,United States,33.0,Paid Search
+C101490,2023-07-12,United Kingdom,,Paid Social
+C101491,2023-12-09,France,38.0,Referral
+C101492,2023-01-21,United Kingdom,74.0,Direct
+C101493,2023-08-22,Germany,45.0,Organic Search
+C101494,2023-10-15,UK,19.0,Direct
+C101495,2023-10-29,France,46.0,Organic Search
+C101496,2024-01-21,United Kingdom,30.0,Paid Social
+C101497,2024-06-30,United Kingdom,66.0,Email
+C101498,2023-11-24,United States,23.0,Paid Social
+C101499,2024-08-11,United Kingdom,61.0,Email
+C101500,2024-01-06,United Kingdom,43.0,Paid Search
+C101501,2023-07-02,Germany,19.0,Paid Social
+C101502,2023-06-10,France,56.0,Email
+C101503,2023-08-14,United Kingdom,43.0,Paid Search
+C101504,2024-02-23,France,,Direct
+C101505,2023-06-19,France,53.0,Organic Search
+C101506,2024-10-01,France,,Paid Search
+C101507,2023-12-02,Germany,44.0,Organic Search
+C101508,2024-08-27,Germany,18.0,Email
+C101509,2024-04-23,United States,25.0,Email
+C101510,2023-08-22,Germany,44.0,Direct
+C101511,2023-06-09,Spain,40.0,Organic Search
+C101512,2024-06-04,United Kingdom,63.0,Organic Search
+C101513,2023-08-20,united kingdom,41.0,Direct
+C101514,2023-06-22,United Kingdom,67.0,Organic Search
+C101515,2024-10-13,Spain,28.0,Email
+C101516,2023-12-04,United States,39.0,Direct
+C101517,2023-02-03,Germany,61.0,Referral
+C101518,2023-12-13,France,,Organic Search
+C101519,2023-11-19,Ireland,36.0,Paid Social
+C101520,2024-08-27,United Kingdom,60.0,Paid Search
+C101521,2024-05-13,France,51.0,Paid Social
+C101522,2023-05-14,France,62.0,Organic Search
+C101523,2023-04-16,United Kingdom,47.0,Organic Search
+C101524,2024-02-27,Germany,66.0,Paid Social
+C101525,2023-02-03,UK,68.0,Paid Search
+C101526,2023-08-12,Germany,73.0,Paid Social
+C101527,2023-04-07,United States,24.0,Organic Search
+C101528,2023-01-15,United Kingdom,51.0,Email
+C101529,2024-10-05,United Kingdom,24.0,Organic Search
+C101530,2023-03-04,United Kingdom,31.0,Paid Social
+C101531,2023-01-07,United Kingdom,35.0,Paid Search
+C101532,2024-10-15,Germany,54.0,Direct
+C101533,2023-05-12,UK,42.0,Organic Search
+C101534,2024-07-25,United Kingdom,67.0,Paid Social
+C101535,2023-01-22,Germany,35.0,Organic Search
+C101536,2023-04-18,Germany,53.0,Organic Search
+C101537,2023-03-19,United States,61.0,Email
+C101538,2024-05-09,Spain,73.0,Email
+C101539,2024-03-10,United States,31.0,Direct
+C101540,2023-11-29,France,59.0,Paid Search
+C101541,2023-06-19,United Kingdom,22.0,Organic Search
+C101542,2023-03-04,Germany,48.0,Paid Search
+C101543,2024-02-03,Ireland,41.0,Email
+C101544,2023-06-11,France,,Paid Social
+C101545,2024-02-18,United States,62.0,Direct
+C101546,2024-04-26,USA,70.0,Organic Search
+C101547,2024-08-17,UK,66.0,Email
+C101548,2023-12-12,Germany,41.0,Direct
+C101549,2023-01-04,Germany,59.0,Paid Social
+C101550,2023-07-16,Ireland,19.0,Paid Search
+C101551,2024-08-20,United States,49.0,Organic Search
+C101552,2024-01-09,United Kingdom,20.0,Direct
+C101553,2024-03-09,USA,59.0,Organic Search
+C101554,2023-11-17,United Kingdom,73.0,Organic Search
+C101555,2023-04-24,United Kingdom,56.0,Paid Social
+C101556,2024-09-19,united kingdom,65.0,Paid Search
+C101557,2024-06-25,Germany,31.0,Organic Search
+C101558,2024-11-27,United Kingdom,74.0,Paid Search
+C101559,2024-08-21,United Kingdom,49.0,Organic Search
+C101560,2023-07-23,United Kingdom,56.0,Email
+C101561,2023-06-27,France,61.0,Paid Social
+C101562,2023-06-23,Germany,54.0,Organic Search
+C101563,2024-10-05,United Kingdom,36.0,Paid Search
+C101564,2024-01-25,United Kingdom,52.0,Paid Social
+C101565,2023-11-15,United States,55.0,Referral
+C101566,2024-11-08,united kingdom,66.0,Email
+C101567,2024-02-27,USA,45.0,Email
+C101568,2024-09-28,United States,46.0,Referral
+C101569,2024-11-20,Spain,46.0,Paid Search
+C101570,2023-02-25,united kingdom,24.0,Referral
+C101571,2023-09-11,Germany,23.0,Email
+C101572,2024-05-28,United Kingdom,,Referral
+C101573,2024-07-23,Spain,55.0,Referral
+C101574,2023-04-14,Ireland,41.0,Paid Social
+C101575,2023-08-11,Germany,67.0,Referral
+C101576,2024-01-19,United States,58.0,Paid Social
+C101577,2024-07-13,United Kingdom,26.0,Direct
+C101578,2023-03-21,France,23.0,Paid Search
+C101579,2024-02-25,Germany,38.0,Paid Search
+C101580,2023-07-27,United Kingdom,70.0,Direct
+C101581,2023-06-01,United States,,Referral
+C101582,2023-12-27,United States,28.0,Direct
+C101583,2023-10-17,France,19.0,Organic Search
+C101584,2024-03-20,Germany,41.0,Email
+C101585,2023-08-11,Germany,74.0,Paid Social
+C101586,2024-07-30,Germany,56.0,Organic Search
+C101587,2023-02-24,United Kingdom,46.0,Paid Search
+C101588,2024-08-26,UK,26.0,Paid Search
+C101589,2023-01-21,United Kingdom,38.0,Email
+C101590,2024-05-30,France,47.0,Paid Social
+C101591,2023-08-31,United States,33.0,Referral
+C101592,2023-09-26,United States,58.0,Paid Social
+C101593,2023-01-14,United Kingdom,73.0,Direct
+C101594,2024-05-06,United Kingdom,29.0,Paid Search
+C101595,2023-04-26,USA,32.0,Paid Social
+C101596,2024-04-06,United Kingdom,25.0,Organic Search
+C101597,2024-05-22,United Kingdom,59.0,Paid Social
+C101598,2024-08-14,Germany,,Organic Search
+C101599,2024-05-10,UK,34.0,Paid Social
+C101600,2023-07-31,United States,30.0,Organic Search
+C101601,2024-06-01,United States,,Organic Search
+C101602,2024-08-01,France,45.0,Paid Social
+C101603,2023-08-11,united kingdom,56.0,Organic Search
+C101604,2023-03-28,Germany,31.0,Direct
+C101605,2024-09-15,Spain,18.0,Organic Search
+C101606,2023-04-14,Germany,44.0,Paid Search
+C101607,2024-02-20,United States,56.0,Organic Search
+C101608,2023-06-15,Germany,37.0,Organic Search
+C101609,2023-03-30,United States,32.0,Organic Search
+C101610,2024-06-27,United States,26.0,Direct
+C101611,2023-04-11,United States,60.0,Paid Social
+C101612,2024-04-14,united kingdom,67.0,Email
+C101613,2024-04-30,United Kingdom,61.0,Organic Search
+C101614,2023-02-12,United States,47.0,Paid Search
+C101615,2023-05-02,United Kingdom,,Organic Search
+C101616,2024-07-10,United States,,Paid Social
+C101617,2023-12-22,United States,19.0,Paid Search
+C101618,2023-03-26,Spain,38.0,Organic Search
+C101619,2024-11-25,United Kingdom,58.0,Paid Social
+C101620,2023-07-05,USA,54.0,Direct
+C101621,2023-01-03,United States,74.0,Paid Social
+C101622,2024-10-08,United Kingdom,74.0,Organic Search
+C101623,2023-01-12,United Kingdom,31.0,Paid Social
+C101624,2024-01-23,United Kingdom,,Organic Search
+C101625,2024-11-26,United Kingdom,33.0,Paid Search
+C101626,2024-02-09,United Kingdom,67.0,Referral
+C101627,2024-02-14,United States,64.0,Email
+C101628,2023-09-29,United States,23.0,Organic Search
+C101629,2023-03-30,United Kingdom,27.0,Referral
+C101630,2024-02-05,United Kingdom,50.0,Referral
+C101631,2024-09-20,United Kingdom,55.0,Organic Search
+C101632,2023-03-05,United States,73.0,Paid Search
+C101633,2024-09-08,united kingdom,61.0,Email
+C101634,2023-10-18,United States,30.0,Direct
+C101635,2024-01-11,United Kingdom,20.0,Paid Social
+C101636,2023-04-26,United Kingdom,54.0,Organic Search
+C101637,2024-03-11,Spain,49.0,Direct
+C101638,2023-05-08,United Kingdom,70.0,Direct
+C101639,2023-07-11,United Kingdom,50.0,Paid Social
+C101640,2024-05-20,United Kingdom,46.0,Organic Search
+C101641,2023-02-05,Ireland,35.0,Direct
+C101642,2023-11-10,USA,22.0,Organic Search
+C101643,2024-02-21,USA,67.0,Paid Social
+C101644,2023-04-03,Ireland,65.0,Referral
+C101645,2023-07-26,United Kingdom,27.0,Organic Search
+C101646,2023-08-29,Ireland,58.0,Organic Search
+C101647,2024-04-09,United Kingdom,38.0,Organic Search
+C101648,2024-11-14,USA,42.0,Paid Search
+C101649,2024-08-08,United States,66.0,Paid Social
+C101650,2023-05-13,United States,65.0,Referral
+C101651,2023-01-13,Spain,28.0,Paid Search
+C101652,2023-02-06,United Kingdom,35.0,Referral
+C101653,2024-02-21,Ireland,64.0,Email
+C101654,2023-04-20,UK,70.0,Email
+C101655,2023-06-11,Germany,22.0,Paid Social
+C101656,2024-08-16,Ireland,65.0,Email
+C101657,2024-09-03,United Kingdom,45.0,Paid Search
+C101658,2024-08-10,Spain,51.0,Direct
+C101659,2023-06-27,United States,22.0,Paid Social
+C101660,2024-03-09,Germany,56.0,Paid Social
+C101661,2024-03-03,United Kingdom,,Paid Search
+C101662,2023-05-10,United States,55.0,Organic Search
+C101663,2024-01-23,Germany,63.0,Direct
+C101664,2024-01-03,United States,71.0,Paid Social
+C101665,2023-10-05,United Kingdom,66.0,Direct
+C101666,2024-06-10,United Kingdom,60.0,Direct
+C101667,2024-04-19,France,,Email
+C101668,2024-01-08,United Kingdom,56.0,Organic Search
+C101669,2024-05-23,Germany,56.0,Direct
+C101670,2024-06-18,Ireland,48.0,Paid Social
+C101671,2024-02-01,United Kingdom,61.0,Paid Social
+C101672,2023-07-07,United Kingdom,22.0,Email
+C101673,2024-06-14,Germany,46.0,Paid Social
+C101674,2024-05-17,United Kingdom,42.0,Referral
+C101675,2024-11-19,USA,,Organic Search
+C101676,2023-04-15,Germany,22.0,Paid Social
+C101677,2023-10-21,USA,54.0,Paid Search
+C101678,2024-10-08,UK,28.0,Organic Search
+C101679,2023-12-27,Germany,68.0,Email
+C101680,2024-10-21,USA,,Referral
+C101681,2023-01-09,United Kingdom,,Paid Search
+C101682,2023-01-25,United States,67.0,Email
+C101683,2024-07-11,France,46.0,Direct
+C101684,2023-09-08,Germany,73.0,Organic Search
+C101685,2023-12-31,United States,,Paid Social
+C101686,2023-10-27,united kingdom,19.0,Paid Search
+C101687,2023-10-13,United Kingdom,29.0,Paid Search
+C101688,2024-10-19,United Kingdom,41.0,Email
+C101689,2023-03-07,United Kingdom,30.0,Email
+C101690,2024-06-24,Ireland,25.0,Email
+C101691,2024-09-14,United Kingdom,73.0,Organic Search
+C101692,2024-04-05,France,67.0,Paid Search
+C101693,2023-10-04,United Kingdom,42.0,Direct
+C101694,2023-04-23,united kingdom,30.0,Email
+C101695,2024-04-22,United States,28.0,Paid Social
+C101696,2023-11-25,united kingdom,70.0,Paid Social
+C101697,2023-04-15,France,36.0,Organic Search
+C101698,2023-09-09,Spain,18.0,Direct
+C101699,2024-11-04,France,,Email
+C101700,2023-07-05,United Kingdom,,Organic Search
+C101701,2023-05-05,Germany,53.0,Referral
+C101702,2024-04-22,United Kingdom,37.0,Paid Search
+C101703,2023-05-20,Spain,70.0,Organic Search
+C101704,2024-10-05,United States,54.0,Email
+C101705,2024-08-24,UK,74.0,Email
+C101706,2024-11-19,United Kingdom,38.0,Organic Search
+C101707,2024-09-30,United Kingdom,55.0,Email
+C101708,2023-06-20,United Kingdom,,Referral
+C101709,2023-05-29,Spain,57.0,Organic Search
+C101710,2023-08-28,France,60.0,Organic Search
+C101711,2023-11-25,Ireland,36.0,Paid Search
+C101712,2024-09-07,United Kingdom,71.0,Paid Social
+C101713,2024-05-28,USA,66.0,Referral
+C101714,2024-03-27,United Kingdom,68.0,Referral
+C101715,2024-09-06,United States,30.0,Direct
+C101716,2024-03-28,united kingdom,58.0,Direct
+C101717,2023-09-23,united kingdom,24.0,Direct
+C101718,2023-10-17,United States,24.0,Referral
+C101719,2023-12-28,United Kingdom,73.0,Paid Social
+C101720,2023-03-04,United States,26.0,Paid Social
+C101721,2024-06-03,Germany,67.0,Paid Social
+C101722,2024-04-01,United Kingdom,42.0,Paid Social
+C101723,2024-05-26,Spain,35.0,Organic Search
+C101724,2024-01-09,United States,22.0,Paid Social
+C101725,2024-07-02,France,56.0,Paid Social
+C101726,2024-10-26,Germany,,Organic Search
+C101727,2024-02-03,Germany,44.0,Paid Social
+C101728,2023-11-08,Germany,64.0,Direct
+C101729,2023-03-15,France,36.0,Email
+C101730,2024-06-29,USA,49.0,Direct
+C101731,2024-09-24,United Kingdom,34.0,Email
+C101732,2024-05-04,United Kingdom,51.0,Paid Search
+C101733,2024-08-28,USA,25.0,Direct
+C101734,2024-08-25,United Kingdom,45.0,Organic Search
+C101735,2024-07-12,United Kingdom,49.0,Paid Search
+C101736,2023-12-19,United Kingdom,49.0,Organic Search
+C101737,2023-03-11,United States,43.0,Email
+C101738,2023-01-03,United Kingdom,54.0,Direct
+C101739,2023-05-24,USA,47.0,Paid Social
+C101740,2023-10-29,France,34.0,Email
+C101741,2024-06-04,France,30.0,Paid Social
+C101742,2023-11-16,united kingdom,54.0,Organic Search
+C101743,2023-01-17,United States,,Organic Search
+C101744,2023-05-28,United States,60.0,Organic Search
+C101745,2024-11-16,United States,54.0,Organic Search
+C101746,2024-11-22,Germany,,Referral
+C101747,2023-09-22,United Kingdom,69.0,Email
+C101748,2024-07-17,Ireland,46.0,Email
+C101749,2024-05-18,United Kingdom,24.0,Referral
+C101750,2024-10-13,France,54.0,Organic Search
+C101751,2024-09-13,USA,53.0,Paid Social
+C101752,2024-03-16,United Kingdom,33.0,Direct
+C101753,2023-10-04,Germany,66.0,Paid Search
+C101754,2024-03-14,United Kingdom,67.0,Paid Social
+C101755,2023-08-12,Germany,36.0,Organic Search
+C101756,2023-09-01,USA,45.0,Direct
+C101757,2024-03-02,United Kingdom,29.0,Paid Search
+C101758,2024-02-04,United Kingdom,28.0,Paid Social
+C101759,2024-02-11,Germany,,Organic Search
+C101760,2023-09-27,united kingdom,38.0,Organic Search
+C101761,2023-10-14,France,33.0,Email
+C101762,2023-01-08,Germany,26.0,Paid Search
+C101763,2024-02-26,Germany,43.0,Referral
+C101764,2024-02-08,United Kingdom,53.0,Paid Social
+C101765,2024-10-16,Germany,36.0,Referral
+C101766,2023-12-19,Spain,48.0,Direct
+C101767,2023-11-24,United Kingdom,33.0,Email
+C101768,2023-02-17,united kingdom,58.0,Direct
+C101769,2023-05-18,United Kingdom,54.0,Paid Social
+C101770,2023-08-25,United States,72.0,Paid Social
+C101771,2023-09-22,Germany,21.0,Email
+C101772,2023-09-11,United States,66.0,Email
+C101773,2023-10-03,United States,37.0,Paid Search
+C101774,2024-06-22,united kingdom,21.0,Email
+C101775,2023-04-02,United Kingdom,57.0,Paid Social
+C101776,2023-08-21,United Kingdom,27.0,Paid Social
+C101777,2023-04-25,France,28.0,Email
+C101778,2023-08-04,USA,73.0,Paid Social
+C101779,2024-04-24,UK,30.0,Direct
+C101780,2023-02-02,France,49.0,Paid Social
+C101781,2023-08-26,United Kingdom,29.0,Paid Social
+C101782,2023-01-17,United Kingdom,25.0,Referral
+C101783,2024-10-30,United Kingdom,18.0,Organic Search
+C101784,2024-05-24,Ireland,18.0,Referral
+C101785,2023-06-20,Germany,45.0,Email
+C101786,2023-05-19,USA,42.0,Email
+C101787,2023-03-11,United Kingdom,20.0,Direct
+C101788,2023-11-28,United Kingdom,37.0,Direct
+C101789,2024-06-11,Germany,33.0,Direct
+C101790,2024-02-13,UK,50.0,Paid Social
+C101791,2024-09-08,Spain,,Paid Social
+C101792,2023-08-29,Germany,57.0,Direct
+C101793,2023-07-14,United States,70.0,Email
+C101794,2023-12-01,Germany,28.0,Referral
+C101795,2023-05-22,Ireland,,Email
+C101796,2024-11-13,United States,60.0,Direct
+C101797,2023-05-11,Germany,35.0,Organic Search
+C101798,2023-12-02,Spain,66.0,Email
+C101799,2024-01-01,United Kingdom,44.0,Organic Search
+C101800,2023-02-09,France,29.0,Paid Social
+C101801,2023-11-24,United Kingdom,66.0,Referral
+C101802,2023-11-15,Germany,49.0,Email
+C101803,2023-07-01,France,63.0,Paid Social
+C101804,2023-03-31,USA,43.0,Paid Search
+C101805,2023-02-01,United States,25.0,Direct
+C101806,2023-01-07,USA,56.0,Email
+C101807,2023-12-04,United Kingdom,25.0,Paid Search
+C101808,2023-03-04,United Kingdom,55.0,Paid Social
+C101809,2024-11-02,United Kingdom,41.0,Direct
+C101810,2023-06-21,USA,63.0,Organic Search
+C101811,2024-04-01,United States,67.0,Paid Social
+C101812,2024-04-16,United Kingdom,41.0,Paid Social
+C101813,2023-12-13,France,68.0,Organic Search
+C101814,2024-09-10,UK,24.0,Email
+C101815,2023-03-19,United States,24.0,Organic Search
+C101816,2023-06-13,United States,74.0,Referral
+C101817,2023-06-26,United Kingdom,50.0,Organic Search
+C101818,2023-04-05,Germany,43.0,Organic Search
+C101819,2023-07-26,United States,26.0,Paid Search
+C101820,2023-08-07,United Kingdom,34.0,Referral
+C101821,2024-06-19,Ireland,57.0,Paid Search
+C101822,2023-07-31,France,64.0,Email
+C101823,2024-09-05,Germany,70.0,Organic Search
+C101824,2024-06-24,France,41.0,Email
+C101825,2024-09-23,Spain,43.0,Email
+C101826,2023-03-15,UK,27.0,Organic Search
+C101827,2024-11-20,USA,22.0,Paid Search
+C101828,2024-03-05,USA,42.0,Referral
+C101829,2024-11-18,United Kingdom,51.0,Direct
+C101830,2023-09-06,United Kingdom,23.0,Email
+C101831,2024-10-29,United Kingdom,41.0,Referral
+C101832,2024-02-17,Germany,54.0,Paid Social
+C101833,2023-02-20,France,64.0,Paid Search
+C101834,2023-10-15,Germany,71.0,Paid Social
+C101835,2023-04-07,united kingdom,37.0,Organic Search
+C101836,2024-10-20,United Kingdom,40.0,Organic Search
+C101837,2023-08-02,United States,67.0,Referral
+C101838,2023-06-05,United States,57.0,Paid Search
+C101839,2024-01-23,Spain,33.0,Paid Search
+C101840,2023-10-25,France,57.0,Direct
+C101841,2023-03-09,Spain,26.0,Paid Search
+C101842,2024-07-25,France,43.0,Direct
+C101843,2024-08-15,Ireland,35.0,Paid Social
+C101844,2024-06-04,United States,74.0,Referral
+C101845,2024-03-07,United Kingdom,19.0,Organic Search
+C101846,2023-10-09,United Kingdom,66.0,Organic Search
+C101847,2024-01-15,United States,34.0,Paid Social
+C101848,2023-12-31,United Kingdom,20.0,Organic Search
+C101849,2023-04-26,United Kingdom,55.0,Paid Search
+C101850,2023-02-27,Spain,56.0,Paid Search
+C101851,2023-06-27,United Kingdom,26.0,Paid Social
+C101852,2023-11-15,Spain,20.0,Direct
+C101853,2023-04-23,Germany,24.0,Paid Social
+C101854,2023-03-16,Germany,41.0,Organic Search
+C101855,2024-08-19,Germany,25.0,Paid Social
+C101856,2023-09-20,UK,58.0,Organic Search
+C101857,2024-02-13,Germany,22.0,Paid Social
+C101858,2024-01-02,United Kingdom,62.0,Organic Search
+C101859,2024-05-29,Spain,67.0,Organic Search
+C101860,2024-06-01,united kingdom,58.0,Organic Search
+C101861,2023-07-27,United Kingdom,71.0,Paid Search
+C101862,2024-08-16,Germany,71.0,Organic Search
+C101863,2023-09-17,Germany,20.0,Paid Social
+C101864,2024-08-07,United States,37.0,Email
+C101865,2023-10-11,Germany,61.0,Paid Social
+C101866,2023-03-19,United Kingdom,37.0,Email
+C101867,2024-06-16,Germany,60.0,Organic Search
+C101868,2023-01-22,United Kingdom,62.0,Referral
+C101869,2024-06-24,United Kingdom,74.0,Email
+C101870,2023-01-31,United Kingdom,,Referral
+C101871,2023-05-25,UK,37.0,Email
+C101872,2024-02-27,UK,19.0,Paid Social
+C101873,2024-10-21,United States,34.0,Paid Social
+C101874,2023-10-13,United Kingdom,33.0,Organic Search
+C101875,2023-03-26,United Kingdom,43.0,Email
+C101876,2023-06-13,United States,42.0,Organic Search
+C101877,2024-09-19,United Kingdom,66.0,Paid Social
+C101878,2024-05-23,Germany,,Referral
+C101879,2023-03-12,Spain,59.0,Organic Search
+C101880,2023-09-27,United States,18.0,Organic Search
+C101881,2023-07-05,Spain,44.0,Referral
+C101882,2023-05-05,United Kingdom,59.0,Paid Social
+C101883,2024-08-15,United Kingdom,31.0,Direct
+C101884,2024-03-08,Germany,42.0,Paid Search
+C101885,2023-05-06,Germany,59.0,Paid Search
+C101886,2024-03-31,France,63.0,Paid Social
+C101887,2023-10-17,United Kingdom,66.0,Paid Social
+C101888,2023-02-13,Germany,42.0,Referral
+C101889,2023-11-11,UK,40.0,Referral
+C101890,2023-05-10,united kingdom,39.0,Referral
+C101891,2023-06-21,United Kingdom,56.0,Paid Social
+C101892,2024-09-07,Ireland,41.0,Organic Search
+C101893,2024-05-12,United Kingdom,40.0,Organic Search
+C101894,2023-04-04,France,27.0,Organic Search
+C101895,2024-08-18,Germany,45.0,Organic Search
+C101896,2024-02-07,Germany,31.0,Paid Search
+C101897,2024-09-04,Germany,47.0,Organic Search
+C101898,2024-06-06,France,68.0,Referral
+C101899,2023-08-26,United Kingdom,,Paid Search
+C101900,2024-01-10,United Kingdom,45.0,Paid Social
+C101901,2024-01-07,USA,73.0,Email
+C101902,2024-05-18,UK,73.0,Referral
+C101903,2023-06-23,United Kingdom,43.0,Paid Social
+C101904,2023-08-22,United Kingdom,61.0,Email
+C101905,2023-06-21,UK,37.0,Direct
+C101906,2023-07-27,United Kingdom,68.0,Direct
+C101907,2023-04-23,United Kingdom,39.0,Direct
+C101908,2023-01-26,Spain,32.0,Paid Search
+C101909,2024-10-20,united kingdom,25.0,Paid Social
+C101910,2023-02-22,Ireland,66.0,Direct
+C101911,2024-09-13,Ireland,34.0,Referral
+C101912,2023-01-03,United Kingdom,64.0,Referral
+C101913,2024-06-28,Germany,22.0,Direct
+C101914,2023-08-18,USA,46.0,Direct
+C101915,2023-12-29,Germany,42.0,Paid Search
+C101916,2023-07-17,United Kingdom,43.0,Paid Social
+C101917,2023-12-10,United Kingdom,27.0,Referral
+C101918,2023-11-13,United Kingdom,22.0,Paid Social
+C101919,2024-01-06,USA,37.0,Email
+C101920,2023-10-03,Ireland,44.0,Direct
+C101921,2024-01-11,Germany,63.0,Direct
+C101922,2024-07-31,Germany,44.0,Paid Social
+C101923,2023-11-01,Ireland,32.0,Email
+C101924,2023-09-10,Germany,32.0,Paid Social
+C101925,2023-04-03,United Kingdom,52.0,Organic Search
+C101926,2023-09-09,France,42.0,Paid Social
+C101927,2023-03-29,UK,69.0,Paid Search
+C101928,2023-05-08,United Kingdom,43.0,Paid Social
+C101929,2024-10-28,United States,50.0,Paid Search
+C101930,2023-03-04,Spain,21.0,Organic Search
+C101931,2023-12-04,United Kingdom,29.0,Direct
+C101932,2024-08-07,United States,66.0,Email
+C101933,2024-10-29,United Kingdom,37.0,Referral
+C101934,2023-04-13,United Kingdom,41.0,Referral
+C101935,2023-04-25,United Kingdom,51.0,Direct
+C101936,2023-09-18,Germany,21.0,Paid Search
+C101937,2024-01-24,France,46.0,Email
+C101938,2024-11-02,United Kingdom,37.0,Organic Search
+C101939,2023-05-26,united kingdom,26.0,Paid Social
+C101940,2023-04-26,United Kingdom,41.0,Direct
+C101941,2023-06-27,United Kingdom,43.0,Email
+C101942,2024-09-04,United States,28.0,Email
+C101943,2023-01-22,Germany,48.0,Email
+C101944,2023-09-24,Germany,60.0,Paid Social
+C101945,2023-03-25,United States,33.0,Direct
+C101946,2023-04-20,United States,73.0,Direct
+C101947,2024-10-03,United Kingdom,52.0,Direct
+C101948,2023-01-02,United Kingdom,62.0,Direct
+C101949,2023-08-14,Spain,21.0,Paid Search
+C101950,2024-10-02,Germany,61.0,Email
+C101951,2024-03-01,Spain,37.0,Paid Search
+C101952,2023-02-20,Spain,58.0,Organic Search
+C101953,2023-11-22,Germany,63.0,Referral
+C101954,2024-11-10,Spain,32.0,Direct
+C101955,2023-10-08,United States,32.0,Email
+C101956,2024-01-06,United Kingdom,21.0,Paid Social
+C101957,2024-01-08,United Kingdom,52.0,Email
+C101958,2024-04-07,United Kingdom,62.0,Paid Social
+C101959,2023-05-12,United Kingdom,41.0,Paid Search
+C101960,2024-08-10,UK,27.0,Paid Social
+C101961,2024-11-23,Germany,36.0,Organic Search
+C101962,2023-04-10,France,40.0,Email
+C101963,2024-07-26,USA,70.0,Paid Social
+C101964,2024-07-25,United Kingdom,25.0,Organic Search
+C101965,2024-06-03,Germany,37.0,Email
+C101966,2023-09-17,UK,54.0,Email
+C101967,2023-11-25,United Kingdom,31.0,Organic Search
+C101968,2024-08-10,united kingdom,68.0,Email
+C101969,2023-04-18,UK,69.0,Email
+C101970,2024-08-03,United Kingdom,39.0,Direct
+C101971,2024-10-06,France,60.0,Paid Social
+C101972,2024-04-22,Germany,61.0,Organic Search
+C101973,2023-08-27,Germany,56.0,Paid Search
+C101974,2024-01-27,United Kingdom,28.0,Email
+C101975,2023-02-05,France,20.0,Organic Search
+C101976,2024-10-14,Germany,37.0,Direct
+C101977,2023-08-28,United Kingdom,25.0,Organic Search
+C101978,2023-02-09,Germany,34.0,Direct
+C101979,2024-07-10,United States,54.0,Direct
+C101980,2024-04-05,United States,51.0,Paid Search
+C101981,2024-03-11,United Kingdom,29.0,Paid Search
+C101982,2023-02-07,United States,19.0,Paid Social
+C101983,2024-06-09,United Kingdom,30.0,Direct
+C101984,2024-03-22,United Kingdom,43.0,Paid Social
+C101985,2024-07-09,United Kingdom,62.0,Referral
+C101986,2024-08-02,Spain,38.0,Email
+C101987,2023-05-29,united kingdom,34.0,Organic Search
+C101988,2023-05-28,UK,49.0,Organic Search
+C101989,2024-10-08,united kingdom,22.0,Organic Search
+C101990,2024-01-07,France,30.0,Organic Search
+C101991,2023-11-03,United States,20.0,Paid Social
+C101992,2023-07-21,Spain,47.0,Paid Search
+C101993,2024-03-23,united kingdom,43.0,Email
+C101994,2024-06-11,United Kingdom,51.0,Direct
+C101995,2023-01-02,United States,53.0,Direct
+C101996,2024-01-22,UK,40.0,Direct
+C101997,2024-11-26,France,67.0,Paid Social
+C101998,2023-07-16,France,70.0,Paid Search
+C101999,2023-07-16,United States,24.0,Direct
+C102000,2024-09-06,Ireland,70.0,Direct
+C102001,2023-02-13,United States,29.0,Paid Search
+C102002,2023-10-06,United Kingdom,32.0,Email
+C102003,2023-11-17,United States,48.0,Email
+C102004,2024-07-12,United Kingdom,19.0,Paid Search
+C102005,2023-04-01,France,38.0,Email
+C102006,2023-10-31,United Kingdom,29.0,Direct
+C102007,2023-04-17,united kingdom,45.0,Organic Search
+C102008,2024-07-05,United States,64.0,Organic Search
+C102009,2024-03-18,United Kingdom,70.0,Email
+C102010,2023-12-14,United Kingdom,30.0,Organic Search
+C102011,2023-10-03,Germany,49.0,Paid Search
+C102012,2023-04-18,United Kingdom,45.0,Organic Search
+C102013,2024-10-07,United States,41.0,Direct
+C102014,2024-03-29,UK,54.0,Organic Search
+C102015,2023-08-12,United Kingdom,74.0,Paid Search
+C102016,2023-10-17,United Kingdom,41.0,Paid Social
+C102017,2024-05-23,Germany,21.0,Organic Search
+C102018,2024-05-18,Spain,70.0,Organic Search
+C102019,2023-11-19,United Kingdom,71.0,Email
+C102020,2023-08-01,Spain,,Paid Search
+C102021,2024-04-06,USA,46.0,Paid Search
+C102022,2024-04-05,Germany,67.0,Paid Social
+C102023,2024-02-24,Germany,46.0,Email
+C102024,2023-02-20,Germany,45.0,Organic Search
+C102025,2023-11-27,France,70.0,Email
+C102026,2024-03-05,United States,65.0,Email
+C102027,2024-10-27,United States,46.0,Paid Social
+C102028,2024-01-03,united kingdom,27.0,Referral
+C102029,2023-08-28,United Kingdom,42.0,Paid Search
+C102030,2024-01-25,Germany,56.0,Organic Search
+C102031,2023-05-05,United Kingdom,33.0,Organic Search
+C102032,2023-03-05,United Kingdom,,Organic Search
+C102033,2024-04-19,United Kingdom,55.0,Organic Search
+C102034,2024-11-21,United Kingdom,22.0,Organic Search
+C102035,2024-08-15,Germany,50.0,Referral
+C102036,2024-02-13,USA,60.0,Organic Search
+C102037,2023-01-29,United States,30.0,Direct
+C102038,2024-11-22,United Kingdom,49.0,Paid Search
+C102039,2023-11-11,United States,58.0,Paid Search
+C102040,2023-07-22,UK,20.0,Referral
+C102041,2024-09-16,Germany,54.0,Organic Search
+C102042,2024-06-06,United States,32.0,Organic Search
+C102043,2024-06-08,United States,40.0,Organic Search
+C102044,2023-07-14,United States,54.0,Paid Search
+C102045,2024-11-25,Ireland,18.0,Paid Search
+C102046,2023-11-14,Germany,18.0,Paid Social
+C102047,2024-01-07,United States,43.0,Paid Social
+C102048,2024-06-09,United States,72.0,Email
+C102049,2024-04-06,United Kingdom,18.0,Paid Social
+C102050,2023-05-01,Spain,62.0,Paid Search
+C102051,2023-07-31,united kingdom,22.0,Organic Search
+C102052,2023-09-10,United Kingdom,45.0,Paid Social
+C102053,2024-10-25,Ireland,42.0,Paid Social
+C102054,2024-05-15,Germany,44.0,Organic Search
+C102055,2023-09-14,United Kingdom,22.0,Paid Social
+C102056,2024-05-29,United Kingdom,60.0,Paid Search
+C102057,2024-05-31,United Kingdom,33.0,Organic Search
+C102058,2023-10-03,USA,61.0,Email
+C102059,2023-10-10,United Kingdom,55.0,Paid Social
+C102060,2024-09-18,Spain,49.0,Organic Search
+C102061,2024-01-29,Spain,35.0,Organic Search
+C102062,2023-04-15,United States,55.0,Paid Social
+C102063,2024-05-18,USA,74.0,Organic Search
+C102064,2024-02-17,united kingdom,70.0,Paid Social
+C102065,2023-12-23,United Kingdom,70.0,Direct
+C102066,2024-05-22,Germany,30.0,Direct
+C102067,2024-09-26,United Kingdom,51.0,Paid Search
+C102068,2023-08-20,United Kingdom,40.0,Paid Social
+C102069,2023-10-21,united kingdom,73.0,Direct
+C102070,2023-05-13,United Kingdom,72.0,Referral
+C102071,2024-03-28,United States,67.0,Organic Search
+C102072,2023-10-09,Germany,27.0,Paid Social
+C102073,2023-08-28,France,36.0,Email
+C102074,2024-05-02,USA,58.0,Direct
+C102075,2023-10-13,France,60.0,Email
+C102076,2023-11-22,United States,37.0,Organic Search
+C102077,2023-11-05,France,25.0,Paid Search
+C102078,2023-06-30,United States,25.0,Organic Search
+C102079,2023-03-30,United Kingdom,57.0,Paid Search
+C102080,2024-08-02,Spain,43.0,Direct
+C102081,2023-03-06,United Kingdom,45.0,Direct
+C102082,2023-08-16,United Kingdom,64.0,Direct
+C102083,2024-04-12,United Kingdom,18.0,Organic Search
+C102084,2023-04-02,UK,61.0,Referral
+C102085,2024-04-03,UK,33.0,Direct
+C102086,2024-05-28,United States,71.0,Direct
+C102087,2024-04-09,France,72.0,Paid Social
+C102088,2023-08-02,united kingdom,46.0,Organic Search
+C102089,2023-01-14,United States,36.0,Paid Social
+C102090,2024-09-13,UK,31.0,Email
+C102091,2023-08-17,France,28.0,Email
+C102092,2024-07-17,United Kingdom,74.0,Direct
+C102093,2023-05-19,United Kingdom,28.0,Direct
+C102094,2023-04-24,United States,43.0,Referral
+C102095,2024-06-28,Germany,45.0,Paid Social
+C102096,2024-10-19,France,56.0,Email
+C102097,2024-08-25,USA,66.0,Paid Social
+C102098,2024-06-09,Germany,49.0,Organic Search
+C102099,2023-06-22,United States,61.0,Organic Search
+C102100,2024-10-01,United Kingdom,50.0,Paid Social
+C102101,2024-04-12,United Kingdom,,Paid Social
+C102102,2023-05-01,United Kingdom,26.0,Email
+C102103,2023-04-01,united kingdom,29.0,Organic Search
+C102104,2024-09-01,United States,42.0,Paid Social
+C102105,2023-07-12,UK,20.0,Organic Search
+C102106,2024-06-20,United States,36.0,Referral
+C102107,2023-04-08,United States,44.0,Email
+C102108,2023-07-16,Germany,44.0,Paid Social
+C102109,2023-07-18,Germany,64.0,Organic Search
+C102110,2023-07-16,united kingdom,73.0,Paid Search
+C102111,2024-04-17,UK,59.0,Email
+C102112,2024-10-02,USA,22.0,Referral
+C102113,2024-09-29,USA,41.0,Email
+C102114,2024-06-03,united kingdom,59.0,Direct
+C102115,2023-05-22,UK,51.0,Paid Search
+C102116,2024-11-03,Germany,44.0,Paid Social
+C102117,2024-01-15,Germany,42.0,Referral
+C102118,2024-01-18,United Kingdom,41.0,Organic Search
+C102119,2024-05-05,United States,51.0,Referral
+C102120,2024-06-22,France,28.0,Paid Social
+C102121,2024-10-29,United Kingdom,47.0,Organic Search
+C102122,2024-02-12,France,29.0,Paid Search
+C102123,2024-03-03,United Kingdom,56.0,Paid Search
+C102124,2024-06-05,United States,67.0,Paid Social
+C102125,2023-06-28,United States,46.0,Paid Search
+C102126,2023-08-04,United Kingdom,40.0,Paid Social
+C102127,2024-03-13,Spain,71.0,Email
+C102128,2023-02-14,United States,55.0,Paid Search
+C102129,2023-08-13,Spain,42.0,Paid Social
+C102130,2024-05-17,united kingdom,19.0,Email
+C102131,2024-11-14,France,18.0,Referral
+C102132,2023-12-30,Spain,30.0,Organic Search
+C102133,2023-10-07,United States,,Paid Social
+C102134,2023-11-05,United Kingdom,59.0,Paid Social
+C102135,2024-04-24,Germany,46.0,Referral
+C102136,2024-01-17,United States,74.0,Organic Search
+C102137,2023-01-17,Spain,48.0,Organic Search
+C102138,2024-01-13,United States,69.0,Direct
+C102139,2023-10-08,United Kingdom,49.0,Organic Search
+C102140,2024-05-05,United Kingdom,38.0,Paid Social
+C102141,2024-09-04,Germany,58.0,Direct
+C102142,2024-11-04,Ireland,,Direct
+C102143,2024-03-03,United Kingdom,33.0,Organic Search
+C102144,2023-09-11,Germany,44.0,Paid Search
+C102145,2023-11-07,Spain,55.0,Direct
+C102146,2023-05-04,United Kingdom,39.0,Paid Social
+C102147,2024-10-17,United Kingdom,58.0,Direct
+C102148,2024-08-16,Germany,73.0,Direct
+C102149,2024-08-20,Germany,41.0,Referral
+C102150,2023-08-18,United Kingdom,34.0,Email
+C102151,2023-08-14,France,40.0,Direct
+C102152,2024-08-22,United States,65.0,Paid Search
+C102153,2024-01-17,Spain,28.0,Email
+C102154,2024-05-08,France,73.0,Direct
+C102155,2023-12-09,France,41.0,Direct
+C102156,2023-11-06,United States,65.0,Paid Search
+C102157,2024-03-18,United Kingdom,62.0,Paid Search
+C102158,2024-07-23,United States,62.0,Organic Search
+C102159,2023-08-22,United Kingdom,69.0,Organic Search
+C102160,2024-07-20,Germany,28.0,Email
+C102161,2023-06-20,United Kingdom,51.0,Paid Social
+C102162,2023-10-09,United States,23.0,Email
+C102163,2024-09-30,United Kingdom,35.0,Direct
+C102164,2024-10-30,united kingdom,20.0,Paid Search
+C102165,2024-10-08,United Kingdom,56.0,Paid Social
+C102166,2023-08-10,USA,52.0,Direct
+C102167,2024-08-13,France,60.0,Organic Search
+C102168,2024-10-17,United Kingdom,28.0,Email
+C102169,2024-11-15,France,36.0,Organic Search
+C102170,2023-01-15,France,56.0,Email
+C102171,2024-06-05,UK,65.0,Email
+C102172,2024-11-28,Germany,68.0,Direct
+C102173,2024-06-19,United States,22.0,Referral
+C102174,2023-06-13,United Kingdom,40.0,Paid Social
+C102175,2024-06-17,United States,18.0,Organic Search
+C102176,2023-03-15,United Kingdom,64.0,Organic Search
+C102177,2023-12-03,France,25.0,Paid Search
+C102178,2024-03-14,Spain,64.0,Paid Search
+C102179,2023-11-16,France,26.0,Paid Social
+C102180,2024-05-04,United States,18.0,Paid Social
+C102181,2023-06-18,United States,68.0,Paid Social
+C102182,2024-02-29,Ireland,,Referral
+C102183,2024-03-27,United Kingdom,42.0,Paid Social
+C102184,2024-03-19,United Kingdom,54.0,Organic Search
+C102185,2023-07-22,United States,33.0,Paid Social
+C102186,2023-08-02,united kingdom,57.0,Paid Social
+C102187,2023-06-30,united kingdom,42.0,Paid Social
+C102188,2023-11-20,United Kingdom,33.0,Organic Search
+C102189,2024-02-15,USA,40.0,Referral
+C102190,2023-09-11,United Kingdom,18.0,Email
+C102191,2023-10-14,United Kingdom,35.0,Paid Social
+C102192,2023-07-20,United Kingdom,51.0,Email
+C102193,2023-06-03,UK,25.0,Email
+C102194,2024-04-05,France,,Direct
+C102195,2024-07-25,UK,,Paid Search
+C102196,2023-07-23,Germany,42.0,Organic Search
+C102197,2024-08-25,Germany,25.0,Paid Search
+C102198,2024-02-04,united kingdom,60.0,Direct
+C102199,2023-04-28,France,62.0,Referral
+C102200,2023-09-14,Germany,19.0,Paid Social
+C102201,2023-01-06,United States,,Paid Social
+C102202,2023-01-28,United Kingdom,39.0,Organic Search
+C102203,2023-08-24,United Kingdom,59.0,Paid Search
+C102204,2023-11-15,Ireland,22.0,Referral
+C102205,2024-07-12,France,63.0,Paid Social
+C102206,2023-04-05,Spain,36.0,Email
+C102207,2024-08-10,Spain,25.0,Organic Search
+C102208,2023-06-14,United Kingdom,67.0,Organic Search
+C102209,2023-04-07,France,22.0,Referral
+C102210,2024-05-04,United States,25.0,Email
+C102211,2024-06-26,France,72.0,Direct
+C102212,2024-02-28,United Kingdom,47.0,Referral
+C102213,2023-03-22,united kingdom,44.0,Referral
+C102214,2023-03-22,Germany,57.0,Direct
+C102215,2023-10-01,France,53.0,Organic Search
+C102216,2023-11-12,USA,52.0,Referral
+C102217,2024-11-30,united kingdom,19.0,Direct
+C102218,2023-07-20,united kingdom,49.0,Paid Social
+C102219,2023-05-15,Ireland,33.0,Organic Search
+C102220,2024-10-24,United States,64.0,Organic Search
+C102221,2023-04-18,United States,46.0,Organic Search
+C102222,2023-01-19,United States,25.0,Email
+C102223,2023-10-23,United States,68.0,Organic Search
+C102224,2023-10-08,United States,34.0,Referral
+C102225,2024-03-09,United States,33.0,Organic Search
+C102226,2024-09-06,France,71.0,Organic Search
+C102227,2024-10-15,Spain,62.0,Paid Social
+C102228,2023-07-22,Spain,66.0,Organic Search
+C102229,2024-11-17,United States,55.0,Paid Search
+C102230,2024-03-18,United States,69.0,Paid Social
+C102231,2023-02-18,Germany,24.0,Organic Search
+C102232,2024-10-18,France,,Organic Search
+C102233,2023-04-07,United States,,Paid Social
+C102234,2024-02-17,Germany,40.0,Referral
+C102235,2024-07-07,Germany,31.0,Direct
+C102236,2023-06-24,Germany,29.0,Paid Social
+C102237,2023-07-09,Germany,43.0,Referral
+C102238,2023-11-30,United Kingdom,70.0,Email
+C102239,2024-09-11,United States,54.0,Direct
+C102240,2023-06-06,USA,37.0,Email
+C102241,2024-04-09,United Kingdom,42.0,Paid Social
+C102242,2023-11-13,France,48.0,Direct
+C102243,2023-03-20,USA,31.0,Direct
+C102244,2024-05-12,United Kingdom,47.0,Email
+C102245,2024-08-05,France,57.0,Paid Search
+C102246,2024-02-07,Germany,31.0,Paid Search
+C102247,2023-05-04,Germany,51.0,Organic Search
+C102248,2023-04-20,United States,58.0,Direct
+C102249,2023-10-24,France,47.0,Referral
+C102250,2023-12-21,United States,34.0,Email
+C102251,2024-01-22,United States,49.0,Email
+C102252,2023-06-20,United Kingdom,63.0,Paid Search
+C102253,2023-12-17,Germany,30.0,Referral
+C102254,2023-07-26,Germany,50.0,Email
+C102255,2024-04-25,United States,56.0,Organic Search
+C102256,2024-07-11,United States,36.0,Paid Social
+C102257,2024-04-01,France,40.0,Paid Search
+C102258,2023-01-01,Germany,68.0,Direct
+C102259,2024-11-25,United Kingdom,38.0,Organic Search
+C102260,2023-01-17,Spain,52.0,Paid Search
+C102261,2024-11-30,Germany,26.0,Direct
+C102262,2023-01-23,Ireland,70.0,Email
+C102263,2023-12-28,Ireland,52.0,Organic Search
+C102264,2023-03-16,Spain,61.0,Email
+C102265,2023-03-08,Germany,52.0,Organic Search
+C102266,2024-04-23,USA,38.0,Paid Social
+C102267,2024-05-24,United Kingdom,37.0,Referral
+C102268,2023-03-24,United States,57.0,Paid Search
+C102269,2024-11-14,Germany,67.0,Paid Social
+C102270,2023-08-13,United States,,Paid Search
+C102271,2023-08-11,France,66.0,Paid Search
+C102272,2023-07-27,United Kingdom,65.0,Organic Search
+C102273,2023-11-19,United States,24.0,Organic Search
+C102274,2023-05-05,United States,24.0,Direct
+C102275,2023-10-25,United States,57.0,Direct
+C102276,2023-05-27,United Kingdom,66.0,Paid Social
+C102277,2023-02-05,United Kingdom,40.0,Referral
+C102278,2023-09-16,France,54.0,Referral
+C102279,2024-04-15,United States,74.0,Direct
+C102280,2024-06-18,United Kingdom,36.0,Direct
+C102281,2023-09-05,United Kingdom,30.0,Organic Search
+C102282,2023-08-15,United States,74.0,Organic Search
+C102283,2024-07-05,United Kingdom,33.0,Organic Search
+C102284,2024-04-21,Germany,44.0,Paid Search
+C102285,2024-08-05,France,43.0,Paid Search
+C102286,2024-09-26,United Kingdom,47.0,Direct
+C102287,2024-07-28,USA,33.0,Organic Search
+C102288,2024-10-17,United Kingdom,56.0,Email
+C102289,2023-10-19,united kingdom,57.0,Organic Search
+C102290,2023-10-04,France,29.0,Paid Social
+C102291,2023-08-14,United States,,Paid Social
+C102292,2023-06-14,France,21.0,Direct
+C102293,2024-06-08,United Kingdom,30.0,Organic Search
+C102294,2024-05-15,UK,74.0,Referral
+C102295,2024-07-14,United States,46.0,Paid Search
+C102296,2023-04-28,United States,53.0,Referral
+C102297,2023-12-10,Ireland,68.0,Organic Search
+C102298,2023-06-05,United Kingdom,58.0,Paid Search
+C102299,2024-09-17,France,63.0,Referral
+C102300,2023-07-07,France,58.0,Email
+C102301,2023-04-11,United States,46.0,Referral
+C102302,2024-02-03,UK,54.0,Paid Search
+C102303,2024-09-07,United States,34.0,Email
+C102304,2024-10-03,united kingdom,68.0,Email
+C102305,2023-03-09,France,28.0,Email
+C102306,2023-08-17,United States,68.0,Organic Search
+C102307,2023-04-18,Spain,68.0,Direct
+C102308,2023-08-04,USA,,Organic Search
+C102309,2024-01-09,United States,58.0,Paid Social
+C102310,2023-07-16,Germany,74.0,Paid Social
+C102311,2023-02-17,United States,50.0,Paid Social
+C102312,2023-12-24,Spain,37.0,Paid Social
+C102313,2023-02-06,United Kingdom,68.0,Referral
+C102314,2023-06-08,Ireland,47.0,Paid Social
+C102315,2023-01-01,France,24.0,Organic Search
+C102316,2023-03-02,France,32.0,Paid Search
+C102317,2023-11-02,United States,56.0,Paid Search
+C102318,2024-08-18,France,43.0,Email
+C102319,2024-06-26,united kingdom,30.0,Paid Social
+C102320,2023-03-11,Germany,63.0,Organic Search
+C102321,2023-01-25,United Kingdom,24.0,Organic Search
+C102322,2023-08-25,united kingdom,30.0,Paid Social
+C102323,2024-04-01,United States,44.0,Paid Search
+C102324,2024-06-06,united kingdom,20.0,Direct
+C102325,2024-07-30,United States,40.0,Paid Social
+C102326,2023-08-28,France,69.0,Paid Search
+C102327,2023-04-28,United Kingdom,71.0,Paid Social
+C102328,2023-01-19,Germany,67.0,Paid Social
+C102329,2023-04-13,United Kingdom,36.0,Paid Social
+C102330,2023-02-15,Germany,,Organic Search
+C102331,2024-08-25,France,64.0,Paid Search
+C102332,2023-07-07,United States,39.0,Paid Social
+C102333,2024-07-30,Germany,60.0,Referral
+C102334,2024-01-23,Spain,24.0,Paid Social
+C102335,2024-01-13,France,56.0,Paid Search
+C102336,2023-11-15,United States,51.0,Referral
+C102337,2024-07-27,United States,70.0,Email
+C102338,2023-01-31,Germany,23.0,Organic Search
+C102339,2023-03-06,united kingdom,41.0,Paid Search
+C102340,2023-10-24,France,74.0,Email
+C102341,2023-10-04,united kingdom,40.0,Paid Social
+C102342,2024-01-17,France,55.0,Paid Search
+C102343,2024-05-31,United Kingdom,27.0,Organic Search
+C102344,2024-02-16,United Kingdom,59.0,Paid Social
+C102345,2023-06-30,Ireland,33.0,Email
+C102346,2023-08-18,France,50.0,Paid Social
+C102347,2024-06-10,France,68.0,Email
+C102348,2023-05-22,Spain,55.0,Paid Social
+C102349,2023-12-19,United States,45.0,Organic Search
+C102350,2024-01-13,united kingdom,,Organic Search
+C102351,2024-06-09,United Kingdom,37.0,Organic Search
+C102352,2024-05-15,United States,66.0,Paid Search
+C102353,2023-11-22,United Kingdom,30.0,Email
+C102354,2023-08-05,Spain,55.0,Email
+C102355,2023-09-15,United Kingdom,45.0,Paid Social
+C102356,2023-10-16,United Kingdom,36.0,Direct
+C102357,2023-06-03,United Kingdom,,Organic Search
+C102358,2024-03-13,United Kingdom,38.0,Paid Social
+C102359,2023-05-26,United Kingdom,34.0,Referral
+C102360,2024-03-30,Germany,48.0,Email
+C102361,2024-06-10,united kingdom,61.0,Direct
+C102362,2024-11-04,USA,67.0,Paid Search
+C102363,2023-03-25,France,53.0,Direct
+C102364,2024-06-15,USA,55.0,Organic Search
+C102365,2023-03-02,Germany,62.0,Organic Search
+C102366,2023-08-25,UK,33.0,Organic Search
+C102367,2023-05-04,United Kingdom,32.0,Direct
+C102368,2023-04-24,united kingdom,45.0,Paid Search
+C102369,2023-05-03,Ireland,53.0,Paid Search
+C102370,2023-01-31,USA,54.0,Paid Social
+C102371,2024-07-30,United Kingdom,26.0,Direct
+C102372,2023-02-12,United States,62.0,Email
+C102373,2023-10-06,France,38.0,Direct
+C102374,2024-05-04,Germany,68.0,Email
+C102375,2024-11-24,United States,59.0,Organic Search
+C102376,2024-08-20,France,74.0,Organic Search
+C102377,2023-04-07,Germany,54.0,Paid Search
+C102378,2024-11-22,Germany,48.0,Paid Social
+C102379,2024-04-02,United Kingdom,28.0,Paid Social
+C102380,2023-05-06,United Kingdom,40.0,Paid Social
+C102381,2023-11-11,Ireland,66.0,Paid Social
+C102382,2024-10-04,USA,39.0,Paid Search
+C102383,2023-10-03,United States,21.0,Organic Search
+C102384,2023-05-09,USA,31.0,Organic Search
+C102385,2024-09-04,United Kingdom,51.0,Direct
+C102386,2024-10-29,France,53.0,Email
+C102387,2024-11-13,United Kingdom,74.0,Organic Search
+C102388,2024-10-30,France,71.0,Organic Search
+C102389,2024-09-03,United States,48.0,Organic Search
+C102390,2023-11-15,United Kingdom,49.0,Paid Social
+C102391,2023-05-15,United Kingdom,63.0,Organic Search
+C102392,2024-03-08,France,20.0,Organic Search
+C102393,2023-06-04,United Kingdom,51.0,Direct
+C102394,2023-11-28,United Kingdom,45.0,Paid Search
+C102395,2024-04-04,Germany,62.0,Paid Search
+C102396,2024-10-24,UK,63.0,Paid Social
+C102397,2023-07-22,United States,55.0,Paid Social
+C102398,2023-06-26,United Kingdom,55.0,Paid Search
+C102399,2024-05-29,France,57.0,Direct
+C102400,2023-01-05,united kingdom,51.0,Email
+C102401,2024-02-01,United Kingdom,30.0,Paid Social
+C102402,2024-06-06,united kingdom,34.0,Paid Social
+C102403,2024-01-21,United Kingdom,60.0,Email
+C102404,2023-09-26,united kingdom,53.0,Email
+C102405,2024-08-02,United Kingdom,31.0,Organic Search
+C102406,2023-09-17,United Kingdom,68.0,Paid Search
+C102407,2024-05-12,United States,73.0,Email
+C102408,2023-11-21,France,53.0,Email
+C102409,2023-01-19,United Kingdom,,Organic Search
+C102410,2024-01-07,United Kingdom,71.0,Direct
+C102411,2023-02-04,Spain,31.0,Direct
+C102412,2024-10-13,France,42.0,Organic Search
+C102413,2024-02-26,Germany,66.0,Email
+C102414,2023-09-18,United Kingdom,47.0,Referral
+C102415,2023-12-07,United States,31.0,Direct
+C102416,2024-03-09,United Kingdom,22.0,Organic Search
+C102417,2023-07-02,United Kingdom,38.0,Paid Search
+C102418,2023-07-21,UK,56.0,Email
+C102419,2023-10-21,United States,58.0,Organic Search
+C102420,2023-07-01,UK,30.0,Organic Search
+C102421,2024-06-14,USA,27.0,Organic Search
+C102422,2023-03-14,united kingdom,57.0,Paid Social
+C102423,2024-08-01,UK,27.0,Email
+C102424,2023-09-01,France,21.0,Direct
+C102425,2024-01-28,France,45.0,Organic Search
+C102426,2023-04-21,united kingdom,50.0,Paid Search
+C102427,2023-09-27,United States,31.0,Organic Search
+C102428,2024-06-12,United Kingdom,30.0,Email
+C102429,2023-07-09,United Kingdom,31.0,Paid Search
+C102430,2023-04-03,Germany,37.0,Direct
+C102431,2024-01-01,United Kingdom,18.0,Referral
+C102432,2023-04-24,United States,18.0,Direct
+C102433,2023-08-09,United States,39.0,Organic Search
+C102434,2023-11-12,United Kingdom,19.0,Organic Search
+C102435,2024-01-30,United Kingdom,,Paid Social
+C102436,2024-03-23,UK,51.0,Organic Search
+C102437,2024-04-18,Spain,19.0,Paid Social
+C102438,2024-08-14,USA,53.0,Organic Search
+C102439,2023-02-16,United States,53.0,Paid Search
+C102440,2023-09-11,United Kingdom,50.0,Paid Search
+C102441,2023-01-01,USA,53.0,Direct
+C102442,2023-01-07,United Kingdom,64.0,Direct
+C102443,2023-05-29,United States,22.0,Organic Search
+C102444,2024-02-23,Germany,27.0,Organic Search
+C102445,2024-09-18,United States,36.0,Referral
+C102446,2024-06-25,united kingdom,57.0,Referral
+C102447,2024-03-28,United Kingdom,67.0,Paid Social
+C102448,2024-06-28,United Kingdom,70.0,Email
+C102449,2023-05-01,United States,51.0,Email
+C102450,2024-08-10,France,41.0,Organic Search
+C102451,2024-09-15,United Kingdom,41.0,Paid Social
+C102452,2023-03-08,United States,21.0,Paid Social
+C102453,2023-11-25,Germany,44.0,Referral
+C102454,2024-08-04,United Kingdom,47.0,Paid Search
+C102455,2023-11-30,United Kingdom,29.0,Email
+C102456,2024-08-11,UK,61.0,Direct
+C102457,2024-10-16,Germany,64.0,Direct
+C102458,2023-11-29,United States,35.0,Organic Search
+C102459,2023-02-11,Germany,70.0,Referral
+C102460,2023-08-27,France,24.0,Email
+C102461,2023-05-31,Germany,69.0,Email
+C102462,2023-11-28,Ireland,61.0,Organic Search
+C102463,2024-02-15,Germany,30.0,Paid Search
+C102464,2023-11-21,France,55.0,Paid Search
+C102465,2023-05-17,France,35.0,Organic Search
+C102466,2023-07-30,Germany,63.0,Organic Search
+C102467,2024-04-20,France,27.0,Organic Search
+C102468,2023-01-19,Spain,31.0,Direct
+C102469,2023-05-30,United States,35.0,Email
+C102470,2024-09-16,Germany,29.0,Organic Search
+C102471,2023-03-11,United States,36.0,Direct
+C102472,2023-10-18,France,52.0,Paid Social
+C102473,2023-05-25,United States,54.0,Email
+C102474,2023-03-15,France,49.0,Paid Social
+C102475,2023-10-23,France,28.0,Email
+C102476,2024-01-01,Ireland,29.0,Email
+C102477,2023-05-04,United Kingdom,70.0,Paid Social
+C102478,2023-02-24,Germany,32.0,Paid Social
+C102479,2023-04-05,Germany,23.0,Paid Search
+C102480,2024-04-01,Spain,43.0,Email
+C102481,2024-08-25,Spain,18.0,Paid Search
+C102482,2023-05-07,United States,37.0,Email
+C102483,2023-08-13,United States,66.0,Direct
+C102484,2023-08-29,United Kingdom,33.0,Paid Social
+C102485,2023-09-10,Ireland,,Direct
+C102486,2023-06-21,United Kingdom,45.0,Paid Social
+C102487,2023-02-08,Germany,38.0,Organic Search
+C102488,2024-01-03,France,55.0,Organic Search
+C102489,2023-09-08,United States,51.0,Organic Search
+C102490,2023-08-28,United Kingdom,36.0,Paid Search
+C102491,2023-07-05,United Kingdom,30.0,Paid Search
+C102492,2024-10-12,France,70.0,Direct
+C102493,2024-03-03,United States,27.0,Organic Search
+C102494,2023-10-21,United Kingdom,72.0,Paid Search
+C102495,2023-05-24,Germany,44.0,Direct
+C102496,2024-07-14,United Kingdom,74.0,Paid Social
+C102497,2024-09-13,France,38.0,Email
+C102498,2023-01-23,united kingdom,50.0,Referral
+C102499,2024-10-12,United Kingdom,53.0,Organic Search

@@ -1,0 +1,11 @@
+
+A/B TEST RESULT: Checkout Redesign
+-----------------------------------
+Control conversion rate:    9.40%  (n=5,200, conversions=489)
+Treatment conversion rate:  10.64%  (n=5,150, conversions=548)
+Absolute lift:              1.24%
+Relative lift:              13.2%
+95% CI on absolute lift:    [0.08%, 2.39%]
+Z-statistic:                2.095
+P-value:                    0.0361
+Statistically significant at 95% confidence: YES

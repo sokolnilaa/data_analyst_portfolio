@@ -1,0 +1,4 @@
+variable,chi2,p_value,significant_0.05
+overtime,7.04,0.00797,True
+department,2.9,0.71517,False
+job_level,20.82,0.00034,True

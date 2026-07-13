@@ -1,0 +1,5 @@
+DATA QUALITY LOG
+========================================
+- Removed 12 duplicate subscription records.
+- 750 rows (25.0%) have no NPS score recorded (survey non-response) — left as missing rather than imputed, since imputing sentiment data risks masking real signal.
+- Row count: 3012 raw -> 3000 clean.
